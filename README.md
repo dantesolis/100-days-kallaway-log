@@ -18,15 +18,35 @@ Thanks to this [post](https://medium.freecodecamp.com/join-the-100daysofcode-556
 
 **Thoughts:** Feels good to be back at coding.
 
-**Link to work:** Project is on pvt on github. But I'll be adding a gist or a `less-boilerplate` repo in the near future to keep track of my learning `less`. Until now, been using `css` and `scss`.
+**Link to work:** Project is on pvt on github. But I'll be adding a gist or a `less-boilerplate` repo in the near future to keep track of my learning `less`. Until now, been using `css` and `scss/sass`.
 
-### Day 1: ...
+<hr	/>
+
+### Day 1: Feb 26. Sunday
+
+**Today's Progress**: Finish the Splash Screen on the Open Source project I 'm contributing on. Reorganization of stylesheets in a component base structure. Using my [scss-boilerplate](https://github.com/dantesolis/scss-boilerplate) as starting point, but doing it in `Less`
+
+**Thoughts:** Learning more about `flex`, `less` imports and `mixins`. Will be creating a `less-boilerplate` in the following days
+
+**Link to work:** idem DAY-0
+
+<hr	/>
+
+### Day 2: ...
 
 **Today's Progress**: ...
 
 **Thoughts:** ...
 
-**Link to work:** [link_-_to-work](#)
+**Link to work:** [link-to-work](#)
 
-### Day 2: ...
- ...
+<hr	/>
+ 
+### Day 3: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+<hr	/>
