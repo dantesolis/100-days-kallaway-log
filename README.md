@@ -32,13 +32,14 @@ Thanks to this [post](https://medium.freecodecamp.com/join-the-100daysofcode-556
 
 <hr	/>
 
-### Day 2: ...
+### Day 2: Feb 27. Monday
 
-**Today's Progress**: ...
+**Today's Progress**: Worked on 30DaysOfJs flex panels. Setting up the project on codepen. Once it's done, I will create a simple site and make it life.
+Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md**
 
-**Thoughts:** ...
+**Thoughts:** Learning about sass, styles, typography/fonts. Today was just the pen set up. Tomorrow begins the real work.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [pen](https://codepen.io/intercoder/pen/KWpEow?editors=1100)
 
 <hr	/>
  
