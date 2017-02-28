@@ -12,6 +12,15 @@
 
 - [to_LowerCase()](https://www.codewars.com/kata/beginner-friendly-lowercase-letters/train/javascript)
 
+<hr/>
+
+
+### Day 2 & 3: Feb 28. Tuesday
+- ...
+
+- ...
+
+<hr/>
 
 
 Find me at [codewars](https://www.codewars.com/users/intercoder)

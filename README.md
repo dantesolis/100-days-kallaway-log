@@ -43,11 +43,54 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
  
-### Day 3: ...
+### Day 3: Feb 28. Tuesday
+
+**Today's Progress**: Working on 30DaysOfJs flex panels. Fixing some minor bugs and getting my panels to work and my text to center. Need to still work on it.
+
+**Thoughts:** I actually learnt that when using transitions I can not only specify each individual property I want to change, but how I want it to change it. Before I just used to do `transition: all ...`
+
+**Link to work:** [pen](https://codepen.io/intercoder/pen/KWpEow?editors=1100)
+
+<hr	/>
+
+### Day 4: ...
 
 **Today's Progress**: ...
 
 **Thoughts:** ...
 
 **Link to work:** [link-to-work](#)
+
+<hr	/>
+
+
+### Day 5: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+
+### Day 6: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 7: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
 <hr	/>
