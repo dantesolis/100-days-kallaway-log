@@ -53,13 +53,12 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
 
-### Day 4: ...
+### Day 4: March 1. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**: Today just had time worked on the [Day 4: March 1. Wednesday](DAILY-XTRA.md) kata.
 
-**Thoughts:** ...
+**Thoughts:** Tired today, but will be adding an extra day to my log
 
-**Link to work:** [link-to-work](#)
 
 <hr	/>
 

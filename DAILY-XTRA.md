@@ -15,7 +15,27 @@
 <hr/>
 
 
-### Day 2 & 3: Feb 28. Tuesday
+### Day 2 & 3 Feb 28. Tuesday
+- Tried to solve converting integer into ASCII character, but couldn't solve it.
+
+
+### Day 4: March 1. Wednesday
+
+- Was totally overthinking the kata from yesterday, [Char-from-ascii](https://www.codewars.com/kata/get-character-from-ascii-value). Finally solved it. Life is good. :)
+
+
+<hr/>
+
+### Day 5: ...
+
+- ...
+
+- ...
+
+<hr/>
+
+### Day 6: ...
+
 - ...
 
 - ...
