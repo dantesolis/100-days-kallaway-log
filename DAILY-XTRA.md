@@ -4,6 +4,8 @@
 
 **End Date** ...
 
+**Xtra Days to add** 1
+
 **Inspiration** To be attached to my 100DaysOfCodeChallenge. Was doing it already, but stopped for some reason. Now beginning again, cause who doesn't want to solve simple algorithms? :)
 
 
@@ -26,7 +28,15 @@
 
 <hr/>
 
-### Day 5: ...
+### Day 5: March 2. Thursday
+
+- None
+
+Would be adding an extra date or doing additional katas on the following dates to catch up.
+
+<hr/>
+
+### Day 6: ...
 
 - ...
 
@@ -34,7 +44,17 @@
 
 <hr/>
 
-### Day 6: ...
+
+### Day 7: ...
+
+- ...
+
+- ...
+
+<hr/>
+
+
+### Day 8: ...
 
 - ...
 

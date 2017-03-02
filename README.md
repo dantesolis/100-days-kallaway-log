@@ -1,9 +1,10 @@
 # 100 Days of Code Log
 
-
 **Start Date** 25 Feb 2017
 
 **End Date** ...
+
+**Xtra Days to add** 1
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -63,13 +64,13 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 <hr	/>
 
 
-### Day 5: ...
+### Day 5: March 2. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**: Almost done with the flex panels. Have a small little bug with toggling the `'open-active'` class and the function that calls it `toggleActive`.
 
-**Thoughts:** ...
+**Thoughts:** Loving the `transitionend` and all other EventHandlers in Js both for messing with css and just all around. Events and it's props are becoming less frightening for me.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [pen](https://codepen.io/intercoder/pen/KWpEow?editors=1100)
 
 <hr	/>
 
@@ -83,6 +84,18 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 **Link to work:** [link-to-work](#)
 
 <hr	/>
+
+
+### Day 7: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
 
 ### Day 7: ...
 
