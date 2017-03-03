@@ -36,9 +36,9 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 6: ...
+### Day 6: March 3. Friday
 
-- ...
+- [Convert-Boolean-toString](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no/train/javascript)
 
 - ...
 

@@ -75,13 +75,13 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 <hr	/>
 
 
-### Day 6: ...
+### Day 6: March 3. Friday
 
-**Today's Progress**: ...
+**Today's Progress**: Finally fixed the bug with the transitions in the flex panels. Right now, just cleaning the codepen and the repo. But main parts finished. Just making sassy... Get it?
 
-**Thoughts:** ...
+**Thoughts:** Need to find out more about how to add comments in `SASS`. Learnt about `evt.propertyName` to be able to see which transitions are strating/finishing when `transitionend` hits.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [codepen]([pen](https://codepen.io/intercoder/pen/KWpEow?editors=1100)), [gh-repo](#)
 
 <hr	/>
 
