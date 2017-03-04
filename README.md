@@ -86,13 +86,13 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 <hr	/>
 
 
-### Day 7: ...
+### Day 7: March 4. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: Worked on an Open "Source Project" (Stori-2). Implemented the signup page mock up in `Less`. Almost done, needs some work.
 
-**Thoughts:** ...
+**Thoughts:** Not always easy to get styles exactly the way you want them. One thinks one knows flex well, but still have tons to learn. Although `flex` makes every thing easier.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** repo set to pvt
 
 <hr	/>
 
