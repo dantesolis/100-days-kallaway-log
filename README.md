@@ -96,8 +96,187 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
 
+### Day 7: March 5. Sunday
 
-### Day 7: ...
+**Today's Progress**: Working through [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview) Udemy course by Stephen Grider
+
+**Thoughts:** Learning about the difference between a 'factory' and an 'instance' of a class. This would come accross as basic to some, but I failed an interview question because of this. A [Medium post](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.dggo1kfq7) about it.
+
+**Link to work:** none at the moment
+
+<hr	/>
+
+### Day 8: March 6. Monday
+
+**Today's Progress**: Finished implementing styles for the SignUp screen on Stori-2 (Open Source project) in less. Finished Section 1 of [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview) Udemy course. Started Section 2.
+
+**Thoughts:** Have to do a work-around on selecting the `::-webkit-input-placeholder` pseudo-class for changing the color of the text. Had created a `less` mixin but is not taking it. Need to debug it. 
+
+**Link to work:** none at the moment
+
+<hr	/>
+
+### Day 9: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 10: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 11: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 12: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 13: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 14: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 15: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 16: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 17: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 18: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 19: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 20: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 21: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 22: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 23: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 24: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 25: ...
 
 **Today's Progress**: ...
 
