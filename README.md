@@ -108,7 +108,7 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 ### Day 8: March 6. Monday
 
-**Today's Progress**: Finished implementing styles for the SignUp screen on Stori-2 (Open Source project) in less. Finished Section 1 of [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview) Udemy course. Started Section 2.
+**Today's Progress**: Finished implementing styles for the SignUp screen on Stori-2 (Open Source project) in less. Finished Section 1 of the [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview) Udemy course. Started Section 2.
 
 **Thoughts:** Have to do a work-around on selecting the `::-webkit-input-placeholder` pseudo-class for changing the color of the text. Had created a `less` mixin but is not taking it. Need to debug it. 
 
@@ -116,7 +116,23 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
 
-### Day 9: ...
+### Day 9: March 7. Tuesday
+
+**Today's Progress**: Finished Section 2 of the [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview) Udemy course. Finished React part of the course. Now to start on redux.
+
+**Thoughts:** I love React and its "simplicity". I still get a bit confused when state and/or props are hand down from parent to child and/or with the use of callbacks from child to parent to handle state.
+
+**Pros:** Better grasp on the difference between a 'functional component' (one that just takes data and displays it) vs. a 'class based component' (one which handles state).
+
+**Cons:** Need to get better at handling states, props and event changes.
+
+**Goal:** Will write used acquired knowledge to create a 1 page application that will display all of my simple js projects (cssvars, flexpanels, browser, fartkit, ...). **App must be ready and "live" by Day 14: March 12. Sunday**
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 10: March 8. Wednesday
 
 **Today's Progress**: ...
 
@@ -126,7 +142,7 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
 
-### Day 10: ...
+### Day 11: March 9. Thursday
 
 **Today's Progress**: ...
 
@@ -136,7 +152,7 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
 
-### Day 11: ...
+### Day 12: March 10. Friday
 
 **Today's Progress**: ...
 
@@ -146,7 +162,7 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
 
-### Day 12: ...
+### Day 13: March 11. Saturday
 
 **Today's Progress**: ...
 
@@ -156,17 +172,7 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 <hr	/>
 
-### Day 13: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
-
-<hr	/>
-
-### Day 14: ...
+### Day 14: March 12. Sunday
 
 **Today's Progress**: ...
 
