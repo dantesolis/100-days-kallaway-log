@@ -134,11 +134,13 @@ Also worked on logging my codewars kata completions. Check it at **DAILY-XTRA.md
 
 ### Day 10: March 8. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**: Finished Section 3 of the [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview) Udemy course. 
 
-**Thoughts:** ...
+Installed `webpack for my new simple-js project **flexpanels**. CodePen and Link to follow in the next couple of days.
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Learnt about redux. Also learnt about `git clone --depth <depth> -b <branch> <repo_url>` for cloning repos with no commit history.[SO](http://stackoverflow.com/questions/29368837/copy-a-git-repo-without-history) answer
+
+**Link to work:** [flexpanel-repo](https://www.github/dantesolis/flexpanels)
 
 <hr	/>
 
