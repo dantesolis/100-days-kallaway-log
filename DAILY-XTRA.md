@@ -74,9 +74,9 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 12: ...
+### Day 12: March 9. Thursday
 
-- ...
+- None
 
 <hr/>
 

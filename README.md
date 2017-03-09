@@ -146,11 +146,12 @@ Installed `webpack for my new simple-js project **flexpanels**. CodePen and Link
 
 ### Day 11: March 9. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**: Added `webpack.config.js` to the flexpanels mini site. Thinking about changing the app completely into a mini react app. Need to debug the `webpack` error.
 
-**Thoughts:** ...
+**Thoughts:** Having problems with the `webpack.config.js` keep getting a `Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema.
+ - configuration.resolve.extensions[0] should not be empty.` error.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [flexpanel-repo](https://github.com/dantesolis/flexpanels/tree/feature/webpack)
 
 <hr	/>
 
