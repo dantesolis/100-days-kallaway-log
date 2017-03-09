@@ -151,6 +151,8 @@ Installed `webpack for my new simple-js project **flexpanels**. CodePen and Link
 **Thoughts:** Having problems with the `webpack.config.js` keep getting a `Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema.
  - configuration.resolve.extensions[0] should not be empty.` error.
 
+ Learnt about `git rebase -i HEAD~my_commit_number` to be able to change a commit message after it has been pushed.
+
 **Link to work:** [flexpanel-repo](https://github.com/dantesolis/flexpanels/tree/feature/webpack)
 
 <hr	/>
