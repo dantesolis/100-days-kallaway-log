@@ -148,10 +148,9 @@ Installed `webpack for my new simple-js project **flexpanels**. CodePen and Link
 
 **Today's Progress**: Added `webpack.config.js` to the flexpanels mini site. Thinking about changing the app completely into a mini react app. Need to debug the `webpack` error.
 
-**Thoughts:** Having problems with the `webpack.config.js` keep getting a `Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema.
- - configuration.resolve.extensions[0] should not be empty.` error.
+**Thoughts:** Having problems with the `webpack.config.js`, keep getting a `Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema.- configuration.resolve.extensions[0] should not be empty.` error.
 
- Learnt about `git rebase -i HEAD~my_commit_number` to be able to change a commit message after it has been pushed.
+Learnt about `git rebase -i HEAD~my_commit_number` to be able to change a commit message after it has been pushed.
 
 **Link to work:** [flexpanel-repo](https://github.com/dantesolis/flexpanels/tree/feature/webpack)
 
@@ -159,11 +158,20 @@ Installed `webpack for my new simple-js project **flexpanels**. CodePen and Link
 
 ### Day 12: March 10. Friday
 
-**Today's Progress**: ...
+**Today's Progress**: 
 
-**Thoughts:** ...
+- Debugged my webpack error from Day 11 on the flex panels mini site. Can see it on my local machine.
 
-**Link to work:** [link-to-work](#)
+- Section 1 & 2 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course. 
+
+- Worked on the flexpanels mini site.
+
+**Thoughts:** 
+
+*@webpack:* Started with a google search of my error which took me [here](http://stackoverflow.com/questions/42060243/invalid-configuration-object-webpack-has-been-initialised-using-a-configuration). But this just gave me a new `webpack.config.js`, after some more searching came to this [here](https://webpack.js.org/configuration/resolve/#resolve-extensions), which shows me that `module.resolve.extensions: ['', '.js', '.jsx']` becomes `module.resolve.extensions: ['*', '.js', '.jsx']` in `webpack 2.x.x`.
+
+**Link to work:** [flexpanel-repo](https://github.com/dantesolis/flexpanels/)
+
 
 <hr	/>
 
