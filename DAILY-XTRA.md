@@ -94,7 +94,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 15: March 11. Sunday
 
-- ...
+- None
 
 <hr/>
 

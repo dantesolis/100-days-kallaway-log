@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 1
+**Xtra Days to add** 2
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -187,11 +187,13 @@ Learnt about `git rebase -i HEAD~my_commit_number` to be able to change a commit
 
 ### Day 14: March 12. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Created a footer component on the flexpanels mini site.
+- Began Section 3 [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** About to apply styles into my React components, thinking about using cssvars. 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [flexpanel-repo](https://github.com/dantesolis/flexpanels/tree/feature/panels-component)
 
 <hr	/>
 
