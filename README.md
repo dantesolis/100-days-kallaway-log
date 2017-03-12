@@ -177,11 +177,11 @@ Learnt about `git rebase -i HEAD~my_commit_number` to be able to change a commit
 
 ### Day 13: March 11. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: Created the panels component. Passing style and additional content as props. 
 
-**Thoughts:** ...
+**Thoughts:** Learning the difference on how to pass styles and content as `pops` between functional and class based components.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [flexpanel-repo](https://github.com/dantesolis/flexpanels/tree/feature/panels-component)
 
 <hr	/>
 
