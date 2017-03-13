@@ -197,13 +197,17 @@ Learnt about `git rebase -i HEAD~my_commit_number` to be able to change a commit
 
 <hr	/>
 
-### Day 15: ...
+### Day 15: March 13. Monday
 
-**Today's Progress**: ...
+**Today's Progress**: - Continued working on Section 3 [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:**
+- Decided to push myself and use `css variables` for my css.
+- Webpack is no longer as scary as I thought it would be or it was the first time I used it 6 months ago.
 
-**Link to work:** [link-to-work](#)
+I'm using what I'm learning in this course to do another simple CSS &amp; JS simple site *famous calculator start project* that everyone begins with.
+
+**Link to work:** [calculator-repo](https://github.com/dantesolis/calculator)
 
 <hr	/>
 
