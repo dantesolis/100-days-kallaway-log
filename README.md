@@ -205,19 +205,22 @@ Learnt about `git rebase -i HEAD~my_commit_number` to be able to change a commit
 - Decided to push myself and use `css variables` for my css.
 - Webpack is no longer as scary as I thought it would be or it was the first time I used it 6 months ago.
 
-I'm using what I'm learning in this course to do another simple CSS &amp; JS simple site *famous calculator start project* that everyone begins with.
+I'm using what I'm learning in this course to do another simple CSS &amp; JS simple site *famous **calculator** start project* that everyone begins with.
 
 **Link to work:** [calculator-repo](https://github.com/dantesolis/calculator)
 
 <hr	/>
 
-### Day 16: ...
+### Day 16: March 14. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**: 
+- Worked on Section 3 [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course. [calculator-repo](https://github.com/dantesolis/calculator)
 
-**Thoughts:** ...
+**Thoughts:**
+- Learnt a bit more about `npm peer dependencies` and how to debug errors after encountering a bug when installing one of the `node packages` that was not backwards compatible. Google if your friend.
+- Helpful command to delete a file | folder mistakenly added to git `git rm -r --cached what_i_want_to_remove`. Have used it 5 - 6 times in the last year. Here is a [gist](https://gist.github.com/dantesolis/217118b096072e14b9c80733ba82d58e) with the instructions.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See *Today's Progress*
 
 <hr	/>
 
