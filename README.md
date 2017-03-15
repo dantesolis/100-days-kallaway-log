@@ -224,13 +224,15 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 17: ...
+### Day 17: March 15. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Installed all `webpack loaders` that handle my stylesheets in the project.
+- Created roadmap for 2017. Will pushing to github in the next couple of days. 
 
-**Thoughts:** ...
+**Thoughts:** Today was a brainstorming day.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
