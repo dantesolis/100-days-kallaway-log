@@ -236,13 +236,16 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 18: ...
+### Day 18: March 16. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Finished Section 3 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course. [calculator-repo](https://github.com/dantesolis/calculator).
+- Set up style loaders, but getting a `webpack compile error` from the `main.sass` file. Perhaps sass file not properly passing through the loader?
 
-**Thoughts:** ...
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Experimenting with `css grids` module and `css-vars` on the calculator project I'm creating as I follow this course. Link to work [flexpanels-repo/sass-loader](https://github.com/dantesolis/flexpanels/tree/feature/sass-loader)
+
+**Link to work:** [calculator-repo](https://github.com/dantesolis/calculator)
 
 <hr	/>
 
