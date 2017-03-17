@@ -243,17 +243,20 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 - Set up style loaders, but getting a `webpack compile error` from the `main.sass` file. Perhaps sass file not properly passing through the loader?
 
 
+
 **Thoughts:** Experimenting with `css grids` module and `css-vars` on the calculator project I'm creating as I follow this course. Link to work [flexpanels-repo/sass-loader](https://github.com/dantesolis/flexpanels/tree/feature/sass-loader)
 
 **Link to work:** [calculator-repo](https://github.com/dantesolis/calculator)
 
 <hr	/>
 
-### Day 19: ...
+### Day 19: March 17. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Worked on flexpanels and fixed the `BUG` from **Day 18**; turns out I had forgotten to run `webpack` for compilation 🙃. This solved the bug, but presented another issue: *App is not autoreloading after compilation?* [flexpanels-repo](https://github.com/dantesolis/flexpanels).
+- Started Section 4 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course. [calculator-repo](https://github.com/dantesolis/calculator).
 
-**Thoughts:** ...
+**Thoughts:** Sometimes the bugs are just the silliest things to solve (flexpanels). Nothing like stepping a way from the problem a bit and then coming back with a fresh mind.
 
 **Link to work:** [link-to-work](#)
 
