@@ -258,17 +258,19 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 **Thoughts:** Sometimes the bugs are just the silliest things to solve (flexpanels). Nothing like stepping a way from the problem a bit and then coming back with a fresh mind.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See *Today's Progress*
 
 <hr	/>
 
-### Day 20: ...
+### Day 20: March 18. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: 
+- Fixed the *App is not autoreloading after compilation?* error I was having on 👆*Day 19*. Problem was with the `publicPath` in the `webpack.config.js` file; changed it from `publicPath: '/'` to `publicPath: '/build'` to hit the `bundle.js` and `styles.css`. [flexpanels-repo](https://github.com/dantesolis/flexpanels).
+- Finished Section 4 and started Section 5 on [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course. [calculator-repo](https://github.com/dantesolis/calculator).
 
-**Thoughts:** ...
+**Thoughts:** Small bugs like this is what drive you nots. 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See *Today's Progress*
 
 <hr	/>
 
