@@ -274,11 +274,16 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 21: ...
+### Day 21: March 19. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continue working on Section 5 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+- Worked on the Open Source project *[React, Meteor]* I'm contributing to. Doing the styles in `less`. Today just created and pushed an `.editorconfig` file and divided my *PR's* into smaller chunks.
 
-**Thoughts:** ...
+**Thoughts:**
+- Loving ❤️ this code splitting inside of `webpack.config.js`.
+- If you are working on big projects and/or with other developers with different Code Editors, and [editorconfig](http://editorconfig.org/) file is the way to go. Have used it in most of my projects and on others.
+
 
 **Link to work:** [link-to-work](#)
 
