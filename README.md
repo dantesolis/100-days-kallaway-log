@@ -299,13 +299,15 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 23: ...
+### Day 23: March 21. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Finished Section 5 &amp; 6 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+- Installed and set `html-webpack-plugin`, `webpack-commonschunk-plugin`, `rimraf` into [flexpanels](https://github.com/dantesolis/flexpanels). 
 
-**Thoughts:** ...
+**Thoughts:** Getting down and dirty with webpack.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See *Today's Progress*
 
 <hr	/>
 
@@ -320,6 +322,14 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 <hr	/>
 
 ### Day 25: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+### Day 26: ...
 
 **Today's Progress**: ...
 
