@@ -285,17 +285,17 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 - If you are working on big projects and/or with other developers with different Code Editors, and [editorconfig](http://editorconfig.org/) file is the way to go. Have used it in most of my projects and on others.
 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
-### Day 22: ...
+### Day 22: March 20. Monday
 
-**Today's Progress**: ...
+**Today's Progress**: Continued working on the Open Source project *[React, Meteor]* I'm contributing to. Continue dividing structure of the stylesheets using previous personal projects and [sass-guidelines](https://sass-guidelin.es/#architecture) as a reference, but in `less`.
 
-**Thoughts:** ...
+**Thoughts:** Using [BEM](http://getbem.com/introduction/) for style declarations.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *repo is set to pvt*
 
 <hr	/>
 
