@@ -311,13 +311,15 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 24: ...
+### Day 24: March 22. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Finished Section 7 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+- Started adding `onClick` event handlers to the panels component in the flexpanels mini site [flexpanels](https://github.com/dantesolis/flexpanels).
 
-**Thoughts:** ...
+**Thoughts:** States and react 💣 💥 😬. 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See *Today's Progress*
 
 <hr	/>
 
