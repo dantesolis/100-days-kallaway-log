@@ -315,7 +315,7 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 **Today's Progress**:
 - Finished Section 7 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
-- Started adding `onClick` event handlers to the panels component in the flexpanels mini site [flexpanels](https://github.com/dantesolis/flexpanels).
+- Started adding `onClick` event handlers to the panels component in the flexpanels mini site March 22. Wednesday.
 
 **Thoughts:** States and react 💣 💥 😬. 
 
@@ -323,7 +323,27 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 25: ...
+### Day 25: March 23. Thursday
+
+**Today's Progress**: Worked on the the flex panels mini site. Ran into a bug when handling toggling events in inside the `panels component` [flexpanels](https://github.com/dantesolis/flexpanels/tree/feature/toggling-panels). **BUGGY**
+
+**Thoughts:** Learning more about handling `states` and toggling `css classes`in react.
+
+**Link to work:** *Today's Progress*
+
+<hr />
+
+### Day 26: March 24. Friday
+
+**Today's Progress**: Fixed 👆 Day 25 bug with toggling `style classes` inside the `panels component`. React version of the mini site is ready. Deciding where to host it now.
+
+**Thoughts:** Liked the idea of converting the mini-js-project into a mini-react-app.
+
+**Link to work:** [flexpanels-react](https://github.com/dantesolis/flexpanels)
+
+<hr	/>
+
+### Day 27: ...
 
 **Today's Progress**: ...
 
@@ -331,7 +351,29 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 **Link to work:** [link-to-work](#)
 
-### Day 26: ...
+<hr	/>
+
+### Day 28: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 29: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 30: ...
 
 **Today's Progress**: ...
 
