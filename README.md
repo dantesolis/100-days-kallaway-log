@@ -353,13 +353,16 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 28: ...
+### Day 28: March 25. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**: 
+- Started Section 8 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+- Added links to the **github-repo** (React Version) and to the **codepen** (Vanilla Js) to the flexpanels minisite.
+- Created a `mixin.imports.less` to hold all the mixins I'll be using on the Open Source I'm contributing to. Created a [gh-repo](https://github.com/dantesolis/less-boilerplate) to hold the folder structure for future reference.
 
-**Thoughts:** ...
+**Thoughts:** Left to do if to make it live and to add a Case Study.. 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [codepen](https://codepen.io/intercoder/pen/KWpEow/) [gh-repo](https://github.com/dantesolis/flexpanels)
 
 <hr	/>
 
@@ -382,3 +385,105 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 **Link to work:** [link-to-work](#)
 
 <hr	/>
+
+### Day 31: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 32: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 33: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 34: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 35: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 36: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 37: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 38: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 39: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 40: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+
