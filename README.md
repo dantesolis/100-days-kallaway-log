@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 2
+**Xtra Days to add** 3
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -343,13 +343,13 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 27: ...
+### Day 27: March 25. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: This day was an official **Day OFF**.
 
-**Thoughts:** ...
+**Thoughts:** I think I would implement a "Day OFF" every six days.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
