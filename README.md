@@ -353,7 +353,7 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 28: March 25. Sunday
+### Day 28: March 26. Sunday
 
 **Today's Progress**: 
 - Started Section 8 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
@@ -366,13 +366,13 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 29: ...
+### Day 29: March 27. Monday
 
-**Today's Progress**: ...
+**Today's Progress**: Finished Section 8 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** Started a new job today. Now need to find a way to set aside at least 1-2hrs each day for coding on my stuff outside of work.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
