@@ -368,9 +368,9 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 ### Day 29: March 27. Monday
 
-**Today's Progress**: Finished Section 8 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+**Today's Progress**: Continue working on 8 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
 
-**Thoughts:** Started a new job today. Now need to find a way to set aside at least 1-2hrs each day for coding on my stuff outside of work.
+**Thoughts:** Started a new job today 😎 👍. Now need to find a way to set aside at least 1-2hrs each day for coding on my stuff outside of work. The whole purpose of this log and this roadmap.
 
 **Link to work:** None
 
