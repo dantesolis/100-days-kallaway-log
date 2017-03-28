@@ -376,13 +376,13 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 <hr	/>
 
-### Day 30: ...
+### Day 30: March 28. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**: Started the layout and main `html` and `css` for the landing page (single page) of an Open Source project. 
 
-**Thoughts:** ...
+**Thoughts:** Using the new codepen 'projects' functionality.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** pvt-reop
 
 <hr	/>
 

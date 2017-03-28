@@ -191,9 +191,9 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 31: ...
+### Day 31: March 28. Tuesday
 
-- ...
+- [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents/train/javascript)
 
 <hr/>
 
