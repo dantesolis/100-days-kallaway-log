@@ -382,17 +382,24 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 **Thoughts:** Using the new codepen 'projects' functionality.
 
-**Link to work:** pvt-reop
+**Link to work:** pvt-repo
 
 <hr	/>
 
-### Day 31: ...
+### Day 31: March 29. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on the landing page of Open Source Project.
+- Finished Section 8 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+- Deployed flexpanels single page react static site to AWS.
 
-**Thoughts:** ...
+**Thoughts:** Need to find research a bit more about keeping my keys secured on when deploying to AWS. Need to debug the following error from the web console: 
 
-**Link to work:** [link-to-work](#)
+```
+Warning: It looks like you're using a minified copy of the development build of React. When deploying React apps to production, make sure to use the production build which skips development warnings and is faster. See https://fb.me/react-minification for more details.
+```
+
+**Link to work:** [codepen](https://codepen.io/intercoder/pen/KWpEow/) | [live-react-app-to-come](#)
 
 <hr	/>
 
