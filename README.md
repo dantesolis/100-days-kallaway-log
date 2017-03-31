@@ -403,13 +403,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 32: ...
+### Day 32: March 29. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Worked on Section 9 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+- Added `express server` and `webpack-dev-middleware` to the [flexpanels react static](https://github.com/dantesolis/flexpanels/tree/feature/adding-a-server) site.
 
 **Thoughts:** ...
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [codepen](https://codepen.io/intercoder/pen/KWpEow/) | [live-react-app-to-come](#)
 
 <hr	/>
 

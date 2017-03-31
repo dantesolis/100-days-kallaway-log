@@ -203,12 +203,52 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
+### Day 33: March 30. Thursday
 
-### Day 33: ...
+- DOING [rock-paper-scissors](https://www.codewars.com/kata/rock-paper-scissors/train/javascript). Trying to figure out the best way to solve it.
+
+<hr/>
+
+### Day 34: ...
 
 - ...
 
 <hr/>
 
+### Day 35: ...
+
+- ...
+
+<hr/>
+
+### Day 36: ...
+
+- ...
+
+<hr/>
+
+### Day 37: ...
+
+- ...
+
+<hr/>
+
+### Day 38: ...
+
+- ...
+
+<hr/>
+
+### Day 39: ...
+
+- ...
+
+<hr/>
+
+### Day 40: ...
+
+- ...
+
+<hr/>
 
 Find me at [codewars](https://www.codewars.com/users/intercoder)
