@@ -403,7 +403,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 32: March 29. Thursday
+### Day 32: March 30. Thursday
 
 **Today's Progress**:
 - Worked on Section 9 of [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
@@ -415,7 +415,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 33: ...
+### Day 33: March 31. Friday
 
 **Today's Progress**: ...
 
