@@ -427,13 +427,13 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 34: ...
+### Day 34: April O1. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: Worked on the landing page of an Open Source. Created app and installed all dependecies and loaded on the local env. Tomorrow to work on the syling of the app.
 
-**Thoughts:** ...
+**Thoughts:** Using `css-variables` and making the landing page a React app.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [pvt-repo](#)
 
 <hr	/>
 
