@@ -417,11 +417,13 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 33: March 31. Friday
 
-**Today's Progress**: ...
+**Today's Progress**: 
+- Finished [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/content) Udemy Course.
+- Deployed [flexpanels react static](https://github.com/dantesolis/flexpanels/tree/feature/adding-a-server) site to **ElasticBean AWS** service but, getting a `404` http request **BUGGY**
 
-**Thoughts:** ...
+**Thoughts:** Need to debug the AWS beanstalk error.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [codepen](https://codepen.io/intercoder/pen/KWpEow/) | [live-react-app-to-come](#)
 
 <hr	/>
 
