@@ -450,11 +450,13 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 36: April 03. Monday
 
-**Today's Progress**: Continue working on the landing page of an Open Source. Style the `sendEmail component` added a background picture and the ability to use icons to the project. Modified the `webpack.config.js` file.
+**Today's Progress**:
+- Started Section 4 of the [React-Redux](https://udemy.com/react-redux) Udemy Course.
+- Continue working on the landing page of an Open Source. Fixed the bug I was having with the background image not displaying on the `app`. Went with `inline-styling` of `components` as a quick fix. Started the `Icon Component` for the importing of the `logo.png`. Modified the `webpack.config.js` file to add `url-loader`, `file-loader` and `image-webpack-loader`
 
-**Thoughts:** ...
+**Thoughts:** Read about `css-modules`. Thinking about implementing it the next app. [Ref-link-1](https://css-modules.github.io/webpack-demo/) | [Ref-link-2](https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e) | [Ref-link-3](https://github.com/css-modules/webpack-demo/)
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [set-to-pvt](#)
 
 <hr	/>
 
