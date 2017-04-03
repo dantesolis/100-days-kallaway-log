@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 3
+**Xtra Days to add** 2
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -424,6 +424,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Thoughts:** Need to debug the AWS beanstalk error.
 
 **Link to work:** [codepen](https://codepen.io/intercoder/pen/KWpEow/) | [live-react-app-to-come](#)
+		<main>
 
 <hr	/>
 
@@ -437,19 +438,19 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 35: ...
+### Day 35: April 02. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**: This day was an official **Day OFF**.
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
-### Day 36: ...
+### Day 36: April 03. Monday
 
-**Today's Progress**: ...
+**Today's Progress**: Continue working on the landing page of an Open Source. Style the `sendEmail component` added a background picture and the ability to use icons to the project. Modified the `webpack.config.js` file.
 
 **Thoughts:** ...
 
