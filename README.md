@@ -460,13 +460,14 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 37: ...
+### Day 37: April 04. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continue working on Section 4 of the [React-Redux](https://udemy.com/react-redux) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** Thinking about a single app I could make that could help me hone in what I'm learning here.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
@@ -491,6 +492,28 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr	/>
 
 ### Day 40: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+
+### Day 41: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+
+### Day 42: ...
 
 **Today's Progress**: ...
 
