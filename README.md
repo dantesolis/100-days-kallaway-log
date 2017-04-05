@@ -471,13 +471,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 38: ...
+### Day 38: April 05. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Finished Section 4 of the [React-Redux](https://udemy.com/react-redux) Udemy Course and started Section 5.
 
-**Thoughts:** ...
+**Thoughts:** Redux seems a bit complicated at the moment, but implementing within an app here at work. Hopefully that will clear some more stuff.
+- Learning about `tags` in git and [semver](http://semver.org/) for implementing at work.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
