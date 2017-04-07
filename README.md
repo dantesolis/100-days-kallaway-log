@@ -507,7 +507,20 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr	/>
 
 
-### Day 41: ...
+### Day 41: April 07. Friday
+
+**Today's Progress**:
+- Continue working on Section 5 of the [React-Redux](https://udemy.com/react-redux) Udemy Course.
+- Worked on implementing the styles on the form component on the Open Source app.
+
+**Thoughts:** Need to verify that consuming API's and keeping `env_variables` in react while bundling with `webpack` is "safe".
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+
+### Day 42: ...
 
 **Today's Progress**: ...
 
@@ -518,7 +531,18 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr	/>
 
 
-### Day 42: ...
+### Day 43: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+
+### Day 44: ...
 
 **Today's Progress**: ...
 

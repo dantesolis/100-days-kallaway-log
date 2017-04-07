@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 31
+**Xtra Days to add** 30
 
 **Inspiration** To be attached to my 100DaysOfCodeChallenge. Was doing it already, but stopped for some reason. Now beginning again, cause who doesn't want to solve simple algorithms? 😀
 
@@ -205,7 +205,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 33: March 30. Thursday
 
-- DOING [rock-paper-scissors](https://www.codewars.com/kata/rock-paper-scissors/train/javascript). Trying to figure out the best way to solve it.
+- DOING [rock-paper-scissors](https://www.codewars.com/kata/rock-paper-scissors/train/javascript). Trying to figure out the best way to solve it. **[NOT FINISHED]**
 
 <hr/>
 
@@ -253,7 +253,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 41: April 07. Friday
 
-- None
+- [Remove-string-spaces](https://www.codewars.com/kata/remove-string-spaces)
 
 <hr/>
 
