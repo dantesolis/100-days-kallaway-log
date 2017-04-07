@@ -245,10 +245,79 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 40: ...
+### Day 40: April 06. Thursday
+
+- None
+
+<hr/>
+
+### Day 41: April 07. Friday
+
+- None
+
+<hr/>
+
+### Day 42: ...
 
 - ...
 
 <hr/>
+
+### Day 43: ...
+
+- ...
+
+<hr/>
+
+### Day 44: ...
+
+- ...
+
+<hr/>
+
+
+### Day 45: ...
+
+- ...
+
+<hr/>
+
+
+### Day 46: ...
+
+- ...
+
+<hr/>
+
+### Day 47: ...
+
+- ...
+
+<hr/>
+
+
+### Day 48: ...
+
+- ...
+
+<hr/>
+
+
+
+### Day 49: ...
+
+- ...
+
+<hr/>
+
+
+### Day 50: ...
+
+- ...
+
+<hr/>
+
+
+
 
 Find me at [codewars](https://www.codewars.com/users/intercoder)

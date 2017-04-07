@@ -483,23 +483,26 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 39: ...
+### Day 39: April 05. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continue working on Section 5 of the [React-Redux](https://udemy.com/react-redux) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** Learn about `git remote rm remote_i_want_to_remove` today. [gh-ref](https://help.github.com/articles/removing-a-remote/)
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [react-weather-app](https://github.com/dantesolis/react-weather-app.git)
 
 <hr	/>
 
-### Day 40: ...
+### Day 40: April 06. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continue working on Section 5 of the [React-Redux](https://udemy.com/react-redux) Udemy Course.
+- Added an `<IconComponent />` to landing page of Stori (Open Source Project). Falling in love more and more with react and svg. [CSS-tricks ref](https://css-tricks.com/creating-svg-icon-system-react/) | [reduce-svg-size-tool](https://jakearchibald.github.io/svgomg/)
 
-**Thoughts:** ...
+**Thoughts:** Want to start creating my own `svg`s and start implementing them.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [react-weather-app](https://github.com/dantesolis/react-weather-app.git)
 
 <hr	/>
 
