@@ -520,13 +520,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr	/>
 
 
-### Day 42: ...
+### Day 42: April 08. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continue working on Section 5 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [repo-with-code](https://github.com/dantesolis/react-weather-app).
+- Working on a responsive grid layout system.
 
-**Thoughts:** ...
+**Thoughts:** Reading a css-grid layout book. Trying to implement a grid system into one of my projects. 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None at the moment. A Codepen link will follow.
 
 <hr	/>
 
@@ -552,4 +554,162 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
+### Day 45: ...
 
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 46: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 47: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 48: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 49: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 50: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 51: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 52: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 53: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 54: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 55: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 56: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 57: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 58: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 59: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
+
+### Day 60: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr	/>
