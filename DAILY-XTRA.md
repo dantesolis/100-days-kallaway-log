@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 31
+**Xtra Days to add** 32
 
 **Inspiration** To be attached to my 100DaysOfCodeChallenge. Was doing it already, but stopped for some reason. Now beginning again, cause who doesn't want to solve simple algorithms? 😀
 
@@ -253,7 +253,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 41: April 07. Friday
 
-- [Remove-string-spaces](https://www.codewars.com/kata/remove-string-spaces)
+- [Remove-string-spaces](https://www.codewars.com/kata/remove-string-spaces) **[Js edition]**
 
 <hr/>
 
@@ -263,15 +263,16 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 43: ...
+### Day 43: April 09. Sunday
 
-- ...
+- None
 
 <hr/>
 
-### Day 44: ...
+### Day 44: April 10. Monday
 
-- ...
+- [Remove-string-spaces](https://www.codewars.com/kata/remove-string-spaces) **[Bash edition]**
+- **Thoughts**: Learnt about `// /` and `//:blank:]]/` to remove empty spaces in a string.
 
 <hr/>
 

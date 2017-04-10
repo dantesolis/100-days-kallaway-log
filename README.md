@@ -533,24 +533,30 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr	/>
 
 
-### Day 43: ...
+### Day 43: April 09. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Worked on Section 1 of the [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Installed redux and testing framework for Stori App (Open Source app). 
+- Continued reading ["Get ready for css grid layout"](https://abookapart.com/products/get-ready-for-css-grid-layout) and implemented styles on the responsive grid layout system.
 
-**Thoughts:** ...
+**Thoughts:** Trying to get into TDD, scary thing, but as they say in french "c'est en forgeant que l'on devient forgeron" 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [Codepen-for-grids-to-follow](#)
 
 <hr	/>
 
 
-### Day 44: ...
+### Day 44: April 10. Monday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 1 of the [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Continued working on Section 5 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [repo-with-code](https://github.com/dantesolis/react-weather-app).
+- Continued working on the css-grid-layout template. Having a bit of problems with the `media queries`.
 
-**Thoughts:** ...
+**Thoughts:** Still trying to get my head around redux. Started implementing testing in both projects and doing ok.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** Check *Today's Progress*
 
 <hr	/>
 
