@@ -560,13 +560,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 45: ...
+### Day 45: April 11. Tueday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 5 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [repo-with-code](https://github.com/dantesolis/react-weather-app).
+- Continued working on Section 2 of the [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** Check *Today's Progress*
 
 <hr	/>
 

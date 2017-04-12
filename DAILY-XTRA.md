@@ -276,15 +276,14 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-
-### Day 45: ...
+### Day 45: April 11. Tuesday
 
 - ...
 
 <hr/>
 
 
-### Day 46: ...
+### Day 46: April 12. Wednesday
 
 - ...
 
