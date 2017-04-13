@@ -572,17 +572,19 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 46: ...
+### Day 46: April 12. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Finished working on Section 5 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [repo-with-code](https://github.com/dantesolis/react-weather-app).
+- Continued working on Section 2 of the [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** Learning how to use `calc()` in my css to calculate `height`s `width`s and other attributes. Not as scary. Used it in conjunction with an `#{}` interpolation and a `mixin`.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** Check *Today's progress*
 
 <hr	/>
 
-### Day 47: ...
+### Day 47: April 13. Thursday
 
 **Today's Progress**: ...
 
