@@ -586,15 +586,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 47: April 13. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 2 of the [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
-### Day 48: ...
+### Day 48: April 14. Friday
 
 **Today's Progress**: ...
 
