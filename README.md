@@ -597,11 +597,13 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 48: April 14. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Finished working on Section 2 and started working on Section 3 of the [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Created a react-redux starter repo for all my future react projects. [repo](https://github.com/dantesolis/react-redux-starter.git)
 
-**Thoughts:** ...
+**Thoughts:** Getting acquainted more and more with webpack
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See *Today's Progress*
 
 <hr	/>
 
