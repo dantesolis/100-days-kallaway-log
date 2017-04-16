@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 36
+**Xtra Days to add** 37
 
 **Inspiration** To be attached to my 100DaysOfCodeChallenge. Was doing it already, but stopped for some reason. Now beginning again, cause who doesn't want to solve simple algorithms? 😀
 
@@ -304,20 +304,55 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 
 
-### Day 49: ...
+### Day 49: April 15. Saturday
 
-- ...
-
-<hr/>
-
-
-### Day 50: ...
-
-- ...
+- None
 
 <hr/>
 
 
+### Day 50: April 16. Sunday
+
+- None
+
+<hr/>
+
+### Day 51: ...
+
+- None
+
+<hr/>
+
+### Day 52: ...
+
+- None
+
+<hr/>
+
+### Day 53: ...
+
+- None
+
+<hr/>
+
+### Day 54: ...
+
+- None
+
+<hr/>
+
+### Day 55: ...
+
+- None
+
+<hr/>
+
+
+### Day 56: ...
+
+- None
+
+<hr/>
 
 
 Find me at [codewars](https://www.codewars.com/users/intercoder)

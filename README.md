@@ -607,23 +607,23 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 49: ...
+### Day 49: April 15. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: Fixed the bug I was having yesterday with the `webpack HMR plugin.`
 
-**Thoughts:** ...
+**Thoughts:** Need to read a bit more about `webpack HMR` and the `dev-server`, a bit effy on why do I need to declare it on the entry point.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [repo](https://github.com/dantesolis/react-redux-starter.git)
 
 <hr	/>
 
-### Day 50: ...
+### Day 50: April 16. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**: Installed and configured various webpack plugins; `extract-text-webpack-plugin`, `html-webpack-plugin`, `optimize.commons-chunk plugin` inside the `react-redux-starter` repo. **HMR not working for the styles**
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [repo](https://github.com/dantesolis/react-redux-starter.git)
 
 <hr	/>
 
