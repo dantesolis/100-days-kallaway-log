@@ -619,7 +619,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 50: April 16. Sunday
 
-**Today's Progress**: Installed and configured various webpack plugins; `extract-text-webpack-plugin`, `html-webpack-plugin`, `optimize.commons-chunk plugin` inside the `react-redux-starter` repo. **HMR not working for the styles**
+**Today's Progress**: Installed and configured various webpack plugins; `extract-text-webpack-plugin`, `html-webpack-plugin`, `optimize.commons-chunk plugin` inside the `react-redux-starter` repo. **HMR not working for the stylesheets** still need to refresh to see the changes.
 
 **Thoughts:** None
 
@@ -627,13 +627,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 51: ...
+### Day 51: April 17. Monday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Installed and configured `eslint`, `webpack-dashboard-loader` inside the `react-redux-starter` [repo](https://github.com/dantesolis/react-redux-starter)
+- Continued working on Section 3 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Started a repo for my future blog. [Repo](https://github.com/dantesolis/blog)
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See *Today's progress*
 
 <hr	/>
 

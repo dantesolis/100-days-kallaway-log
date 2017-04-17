@@ -317,7 +317,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 51: ...
+### Day 51: April 17. Monday
 
 - None
 
@@ -325,32 +325,56 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 52: ...
 
-- None
+- ...
 
 <hr/>
 
 ### Day 53: ...
 
-- None
+- ...
 
 <hr/>
 
 ### Day 54: ...
 
-- None
+- ...
 
 <hr/>
 
 ### Day 55: ...
 
-- None
+- ...
 
 <hr/>
 
 
 ### Day 56: ...
 
-- None
+- ...
+
+<hr/>
+
+### Day 57: ...
+
+- ...
+
+<hr/>
+
+### Day 58: ...
+
+- ...
+
+<hr/>
+
+### Day 59: ...
+
+- ...
+
+<hr/>
+
+### Day 60: ...
+
+- ...
 
 <hr/>
 
