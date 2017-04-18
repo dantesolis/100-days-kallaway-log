@@ -640,13 +640,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 52: ...
+### Day 52: April 17. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Finished Section 3 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Implementing testing in my future blog repo. 
 
-**Thoughts:** ...
+**Thoughts:** Having problems with setting up a testing using `jest` and `enzyme`.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [blog-repo](https://github.com/dantesolis/blog)
 
 <hr	/>
 
