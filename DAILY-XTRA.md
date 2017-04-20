@@ -329,12 +329,12 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 53: ...
+### Day 53: April 19. Wednesday
 
-- ...
+- [String-Cleaning](https://www.codewars.com/kata/string-cleaning)
 
 <hr/>
-
+ 
 ### Day 54: ...
 
 - ...

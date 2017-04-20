@@ -640,7 +640,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 52: April 17. Tuesday
+### Day 52: April 18. Tuesday
 
 **Today's Progress**:
 - Finished Section 3 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
@@ -652,13 +652,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 53: ...
+### Day 53: April 19. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Started Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Finished the [react-redux-starter](https://github.com/dantesolis/react-redux) boilerplate as well as the [blog](https://github.com/dantesolis/blog) code for my future blog. Fixed all bugs and all linting errors. Installed testing framework.
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** See **Today's progress**
 
 <hr	/>
 
