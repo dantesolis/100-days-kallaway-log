@@ -664,11 +664,14 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 54: ...
+### Day 54: April 20. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Finished Section 1 & 2 and started Section 3 of [GraphQl](https://www.udemy.com/graphql-with-react) Udemy Course.
+- ...
 
-**Thoughts:** ...
+**Thoughts:** April 21. Friday
 
 **Link to work:** [link-to-work](#)
 
