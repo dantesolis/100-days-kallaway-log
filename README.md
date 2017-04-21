@@ -671,19 +671,36 @@ Warning: It looks like you're using a minified copy of the development build of 
 - Finished Section 1 & 2 and started Section 3 of [GraphQl](https://www.udemy.com/graphql-with-react) Udemy Course.
 - ...
 
-**Thoughts:** April 21. Friday
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr	/>
 
-### Day 55: ...
+### Day 55: April 21. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Worked on Section 3 [GraphQl](https://www.udemy.com/graphql-with-react) Udemy Course. 
 
-**Thoughts:** ...
+**Thoughts:** Have a problem with my querry syntax. Need to fix it. At the moment getting the following error :
 
-**Link to work:** [link-to-work](#)
+```
+{
+  "errors": [
+    {
+      "message": "Syntax Error GraphQL request (28:1) Unexpected <EOF>\n\n27: \n28: \n    ^\n",
+      "locations": [
+        {
+          "line": 28,
+          "column": 1
+        }
+      ]
+    }
+  ]
+}
+```
+
+**Link to work:** [GraphQl-examples](https://github.com/dantesolis/graphql-examples)
 
 <hr	/>
 
