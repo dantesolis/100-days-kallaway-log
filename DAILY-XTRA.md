@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 39
+**Xtra Days to add** 41
 
 **Inspiration** To be attached to my 100DaysOfCodeChallenge. Was doing it already, but stopped for some reason. Now beginning again, cause who doesn't want to solve simple algorithms? 😀
 
@@ -348,19 +348,19 @@ Would be adding an extra date or doing additional katas on the following dates t
 <hr/>
 
 
-### Day 56: ...
+### Day 56: April 22. Saturday
 
-- ...
-
-<hr/>
-
-### Day 57: ...
-
-- ...
+- None
 
 <hr/>
 
-### Day 58: ...
+### Day 57: April 23. Sunday
+
+- DAY OFF (None)
+
+<hr/>
+
+### Day 58: April 24. Monday
 
 - ...
 

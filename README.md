@@ -4,7 +4,9 @@
 
 **End Date** ...
 
-**Xtra Days to add** 2
+**Xtra Days to add** 3
+
+**Days OFF: 3
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -704,23 +706,23 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 56: ...
+### Day 56: April 22. Satruday
 
-**Today's Progress**: ...
+**Today's Progress**: Continued working on Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** Getting dirty with react-router/dom.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** [react-redux-auth-hoc](https://github.com/dantesolis/react-redux-auth-hoc)
 
 <hr	/>
 
-### Day 57: ...
+### Day 57: April 23. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**: DAY OFF
 
-**Thoughts:** ...
+**Thoughts:** DAY OFF
 
-**Link to work:** [link-to-work](#)
+**Link to work:** DAY OFF
 
 <hr	/>
 
