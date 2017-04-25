@@ -726,13 +726,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 58: ...
+### Day 58: April 24. Monday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continued working on Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
+- Working on a [gulp simple starter repo](https://github.com/dantesolis/gulp-starter) for a medium post
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Learnt about squashing commits with `git rebase -i HEAD~commits_i_want_to_merge`. 
+
+**Link to work:** *Check Today's Progress*
 
 <hr	/>
 
@@ -755,3 +758,32 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Link to work:** [link-to-work](#)
 
 <hr	/>
+
+
+### Day 61: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 62: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+
+
+<hr />
+
+Made with &copy; 2017 D/S

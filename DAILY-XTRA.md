@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 41
+**Xtra Days to add** 42
 
 **Inspiration** To be attached to my 100DaysOfCodeChallenge. Was doing it already, but stopped for some reason. Now beginning again, cause who doesn't want to solve simple algorithms? 😀
 
@@ -362,7 +362,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 58: April 24. Monday
 
-- ...
+- None
 
 <hr/>
 
@@ -380,3 +380,6 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 
 Find me at [codewars](https://www.codewars.com/users/intercoder)
+
+
+Made with ❤️ in Belgium by &copy; 2017 D/S
