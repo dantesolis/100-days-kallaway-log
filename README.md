@@ -733,19 +733,23 @@ Warning: It looks like you're using a minified copy of the development build of 
 - Continued working on Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course.
 - Working on a [gulp simple starter repo](https://github.com/dantesolis/gulp-starter) for a medium post
 
-**Thoughts:** Learnt about squashing commits with `git rebase -i HEAD~commits_i_want_to_merge`. 
+**Thoughts:** Learnt about squashing commits with `git rebase -i HEAD~#_of_commits_i_want_to_merge`. 
 
 **Link to work:** *Check Today's Progress*
 
 <hr	/>
 
-### Day 59: ...
+### Day 59: April 25. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course. [react-redux-auth-hoc](https://github.com/dantesolis/react-redux-auth-hoc)
+- Continued working on Section 4 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- Worked on couple of exercises on [FreeCodeCamp-Basic-Javascript](https://www.freecodecamp.com/challenges/)
+- Worked on an [gulp-starter](https://github.com/dantesolis/react-redux-auth-hoc) repo using `gulp^v4` and ES2015 syntax
 
-**Thoughts:** ...
+**Thoughts:** Thinking of including 2-4 FreeCodeCamp exercises per day so as to keep on schedule to get my certifications this year.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *Check Today's Progress*
 
 <hr	/>
 

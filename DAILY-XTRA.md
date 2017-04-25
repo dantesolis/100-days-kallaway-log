@@ -366,7 +366,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 59: ...
+### Day 59: April 25. Tuesday
 
 - ...
 
