@@ -752,18 +752,22 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr	/>
 
-### Day 60: ...
+### Day 60: April 26. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 4 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- Worked on couple (3) of exercises on [FreeCodeCamp-Basic-Javascript](https://www.freecodecamp.com/challenges/)
+- Continued working on Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course. [react-redux-auth-hoc](https://github.com/dantesolis/react-redux-auth-hoc)
+
 
 **Thoughts:** ...
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *Check Today's Progress*
 
 <hr	/>
 
 
-### Day 61: ...
+### Day 61: April 27. Thursday
 
 **Today's Progress**: ...
 
@@ -784,7 +788,26 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
+### Day 63: ...
 
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 64: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
 
 
 <hr />
