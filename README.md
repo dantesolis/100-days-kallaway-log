@@ -769,16 +769,20 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 61: April 27. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 4 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- Started Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course.
+- Finished Section 4 of [Advance-React-Redux](https://www.udemy.com/react-redux-tutorial) Udemy Course. [react-redux-auth-hoc](https://github.com/dantesolis/react-redux-auth-hoc) **[BUGGY]**
 
-**Thoughts:** ...
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Still a bit effy with HOC in react and redux.
+
+**Link to work:** *Check Today's Progress*
 
 <hr />
 
 
-### Day 62: ...
+### Day 62: April 28. Friday
 
 **Today's Progress**: ...
 
