@@ -784,15 +784,19 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 62: April 28. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Worked on couple (3) of exercises on [FreeCodeCamp-Basic-Javascript](https://www.freecodecamp.com/challenges/)
+- Finished Section 4 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog)
+- Finished a [gulp4-with-browsersyc-starter-repo](https://github.com/dantesolis/gulp-starter). Now just some minor tweaks.
 
-**Thoughts:** ...
+**Thoughts:** 
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *Check Today's Progress*
 
 <hr />
 
-### Day 63: ...
+### Day 63: April 29. Saturday
 
 **Today's Progress**: ...
 
@@ -804,6 +808,72 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 
 ### Day 64: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 65: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 66: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 67: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 68: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 69: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 70: ...
 
 **Today's Progress**: ...
 
