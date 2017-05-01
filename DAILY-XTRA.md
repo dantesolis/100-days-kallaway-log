@@ -406,7 +406,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 65: May 01. Monday
 
-- ...
+- None
 
 <hr/>
 
