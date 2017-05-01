@@ -4,9 +4,9 @@
 
 **End Date** ...
 
-**Xtra Days to add** 3
+**Xtra Days to add** 4
 
-**Days OFF: 3
+**Days OFF: 4
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -798,22 +798,22 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 63: April 29. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog)
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *Check Today's Progress*
 
 <hr />
 
 
-### Day 64: ...
+### Day 64: April 30. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**: DAY OFF (Unplanned)
 
-**Thoughts:** ...
+**Thoughts:** DAY OFF (Unplanned)
 
-**Link to work:** [link-to-work](#)
+**Link to work:** DAY OFF (Unplanned)
 
 <hr />
 
