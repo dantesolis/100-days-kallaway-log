@@ -833,13 +833,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 66: ...
+### Day 66: May 02. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Continued working on Section 5 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 
