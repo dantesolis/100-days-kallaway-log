@@ -806,7 +806,6 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-
 ### Day 64: April 30. Sunday
 
 **Today's Progress**: DAY OFF (Unplanned)
@@ -816,7 +815,6 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Link to work:** DAY OFF (Unplanned)
 
 <hr />
-
 
 ### Day 65: May 01. Monday
 
@@ -832,7 +830,6 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-
 ### Day 66: May 02. Tuesday
 
 **Today's Progress**:
@@ -846,8 +843,21 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
+### Day 67: May 03. Wednesday
 
-### Day 67: ...
+**Today's Progress**:
+
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Finished Section 5 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's Progress*
+
+<hr />
+
+### Day 68: May 04. Thursday
 
 **Today's Progress**: ...
 
@@ -856,18 +866,6 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Link to work:** [link-to-work](#)
 
 <hr />
-
-
-### Day 68: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
-
-<hr />
-
 
 ### Day 69: ...
 
@@ -879,7 +877,6 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-
 ### Day 70: ...
 
 **Today's Progress**: ...
@@ -890,6 +887,35 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
+### Day 71: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+### Day 72: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+### Day 73: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
 
 <hr />
 
