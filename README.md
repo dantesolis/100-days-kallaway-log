@@ -849,9 +849,8 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 - Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
 - Finished Section 5 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
-- ...
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's Progress*
 
@@ -859,11 +858,14 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 68: May 04. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Started Section 6 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 

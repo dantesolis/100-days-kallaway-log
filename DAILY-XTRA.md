@@ -425,14 +425,14 @@ Would be adding an extra date or doing additional katas on the following dates t
 <hr/>
 
 
-### Day 68: ...
+### Day 68: May 04. Thursday
 
-- ...
+- __[PHP]__ [Keep Hydrated](http://www.codewars.com/kata/search/my-languages?q=keep+hydrated)
 
 <hr/>
 
 
-### Day 69: ...
+### Day 69: May 05. Friday
 
 - ...
 
