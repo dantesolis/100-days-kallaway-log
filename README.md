@@ -347,9 +347,9 @@ I'm using what I'm learning in this course to do another simple CSS &amp; JS sim
 
 ### Day 27: March 25. Saturday
 
-**Today's Progress**: This day was an official **Day OFF**.
+**Today's Progress**: This day was an official **DAY OFF**.
 
-**Thoughts:** I think I would implement a "Day OFF" every six days.
+**Thoughts:** I think I would implement a "DAY OFF" every six days.
 
 **Link to work:** None
 
@@ -869,29 +869,32 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-### Day 69: ...
+### Day 69: May 05. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Worked on couple (3) of exercises on [FreeCodeCamp-Basic-Javascript](https://www.freecodecamp.com/challenges/).
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
 
-<hr />
-
-### Day 70: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's Progress*
 
 <hr />
 
-### Day 71: ...
+### Day 70: May 06. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** None
+
+**Link to work:** DAY OFF
+
+<hr />
+
+### Day 71: May 07. Sunday
+
+**Today's Progress**:
 
 **Thoughts:** ...
 
