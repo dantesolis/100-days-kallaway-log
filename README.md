@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 4
+**Xtra Days to add** 6
 
 **Days OFF: 4
 
@@ -888,21 +888,34 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Thoughts:** None
 
-**Link to work:** DAY OFF
+**Link to work:** None
 
 <hr />
 
 ### Day 71: May 07. Sunday
 
-**Today's Progress**:
+**Today's Progress**: **DAY OFF**
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr />
 
-### Day 72: ...
+### Day 72: May 09. Monday
+
+**Today's Progress**:
+
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Started Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [repo](...)
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 73: ...
 
 **Today's Progress**: ...
 
@@ -912,7 +925,19 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-### Day 73: ...
+
+### Day 74: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 74: ...
 
 **Today's Progress**: ...
 
