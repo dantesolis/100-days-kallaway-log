@@ -468,12 +468,12 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 74: May 10. Wednesday
 
-- ...
+- None
 
 <hr/>
 
 
-### Day 75: ...
+### Day 75: May 11. Thursday
 
 - ...
 
@@ -481,6 +481,34 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 
 ### Day 76: ...
+
+- ...
+
+<hr/>
+
+
+### Day 77: ...
+
+- ...
+
+<hr/>
+
+
+### Day 78: ...
+
+- ...
+
+<hr/>
+
+
+### Day 79: ...
+
+- ...
+
+<hr/>
+
+
+### Day 80: ...
 
 - ...
 

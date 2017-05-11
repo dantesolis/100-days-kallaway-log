@@ -931,16 +931,18 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 74: May 10. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Continued working on Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's Progress*
 
 <hr />
 
 
-### Day 75: ...
+### Day 75: May 11. Thursday
 
 **Today's Progress**: ...
 
@@ -963,6 +965,28 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 
 ### Day 77: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 78: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 79: ...
 
 **Today's Progress**: ...
 
