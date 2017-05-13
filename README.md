@@ -944,29 +944,36 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 75: May 11. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continued working on Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
+- Finished Section 6 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
 
-**Thoughts:** ...
+**Thoughts:** Learnt about using `debugger` on my code to force a `breakpoint` on the `chrome console`.
 
-**Link to work:** [link-to-work](#)
-
-<hr />
-
-
-### Day 76: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's Progress*
 
 <hr />
 
 
-### Day 77: ...
+### Day 76: May 12. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
+
+- Finished Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
+
+**Thoughts:** None
+
+**Link to work:** *See Today's Progress*
+
+<hr />
+
+
+### Day 77: May 13. Saturday
+
+**Today's Progress**:
+
+-
 
 **Thoughts:** ...
 

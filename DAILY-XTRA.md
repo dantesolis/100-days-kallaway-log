@@ -475,21 +475,21 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 ### Day 75: May 11. Thursday
 
-- ...
+- None
 
 <hr/>
 
 
-### Day 76: ...
+### Day 76: May 12. Friday
 
-- ...
+- None
 
 <hr/>
 
 
-### Day 77: ...
+### Day 77: May 13. Saturday
 
-- ...
+- None
 
 <hr/>
 
