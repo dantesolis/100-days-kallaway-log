@@ -973,11 +973,11 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**:
 
--
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's Progress*
 
 <hr />
 

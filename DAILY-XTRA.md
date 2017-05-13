@@ -494,7 +494,7 @@ Would be adding an extra date or doing additional katas on the following dates t
 <hr/>
 
 
-### Day 78: ...
+### Day 78: May 13. Saturday
 
 - ...
 
