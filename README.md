@@ -982,13 +982,13 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 78: ...
+### Day 78: May 14. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**: **DAY OFF**
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr />
 
@@ -1002,6 +1002,160 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Link to work:** [link-to-work](#)
 
 <hr />
+
+
+### Day 80: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 81: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 82: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 83: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 84: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 85: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+### Day 86: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 87: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 88: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 89: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 90: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 91: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 92: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 93: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
 
 <hr />
 
