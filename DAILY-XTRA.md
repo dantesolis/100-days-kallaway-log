@@ -508,9 +508,9 @@ Would be adding an extra date or doing additional katas on the following dates t
 <hr/>
 
 
-### Day 80: ...
+### Day 80: May 15. Monday
 
-- ...
+- None
 
 <hr/>
 

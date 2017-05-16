@@ -4,7 +4,7 @@
 
 **End Date** ...
 
-**Xtra Days to add** 6
+**Xtra Days to add** 7
 
 **Days OFF: 4
 
@@ -993,13 +993,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 79: ...
+### Day 79: May 15. Monday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Started Section 6 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course.
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Yesterday marked 7 days where I had given me a **Day OFF**, I will try not to take any more Days off till my I finish my 100DaysOfCode.
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
