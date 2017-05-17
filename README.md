@@ -1007,18 +1007,22 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 80: ...
+### Day 80: May 16. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Started Section 7 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- Continue working on Section 6 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course.
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
 
-### Day 81: ...
+### Day 81: ... 
 
 **Today's Progress**: ...
 
