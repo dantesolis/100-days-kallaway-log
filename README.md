@@ -907,7 +907,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Today's Progress**:
 
 - Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
-- Started Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware)
+- Started Section 5 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware)
 
 **Thoughts:** None
 
@@ -919,7 +919,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**:
 
-- Continued working on Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
+- Continued working on Section 5 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
 - Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
 
 **Thoughts:** None
@@ -933,7 +933,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**:
 - Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
-- Continued working on Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
+- Continued working on Section 5 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
 
 **Thoughts:** None
 
@@ -945,7 +945,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 ### Day 75: May 11. Thursday
 
 **Today's Progress**:
-- Continued working on Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
+- Continued working on Section 5 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
 - Finished Section 6 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
 - Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
 
@@ -960,7 +960,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**:
 
-- Finished Section 5 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
+- Finished Section 5 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course [react-redux-middleware repo](https://github.com/dantesolis/react-redux-middleware).
 
 **Thoughts:** None
 
@@ -998,7 +998,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Today's Progress**:
 
 - Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
-- Started Section 6 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course.
+- Started Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course.
 
 **Thoughts:** Yesterday marked 7 days where I had given me a **Day OFF**, I will try not to take any more Days off till my I finish my 100DaysOfCode.
 
@@ -1013,7 +1013,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 - Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
 - Started Section 7 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
-- Continue working on Section 6 of [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course.
+- Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course.
 
 **Thoughts:** None
 
@@ -1022,13 +1022,17 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 81: ... 
+### Day 81: May 17. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continued working on Section 6 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Finished Section 7 of [Essentials-In-Javascript-ES6](https://www.udemy.com/essentials-in-javascript-es6) Udemy Course.
+- Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [repo-pvt](http://github.com/dantesolis/server)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Learnt about `nodemon, bodyParser, morgan`. Using `express` for a simple api backend.
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
