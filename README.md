@@ -1052,13 +1052,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 83: ...
+### Day 83: May 19. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Finished Section 6 and started section 7 of the [React-Redux](https://udemy.com/react-redux) Udemy Course. [react-redux-blog-repo](http://github.com/dantesolis/react-redux-blog).
+- Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Learnt about `git add mynewremotename git@mynewremoteaddress.com/repo.git` for adding multiple remotes to a git repo.
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
