@@ -1066,20 +1066,22 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 84: ...
+### Day 84: Saturday 84. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: ***DAY OFF*
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr />
 
 
-### Day 85: ...
+### Day 85: May 21. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
+
+- Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
 
 **Thoughts:** ...
 
