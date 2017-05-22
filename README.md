@@ -4,9 +4,9 @@
 
 **End Date** ...
 
-**Xtra Days to add** 7
+**Xtra Days to add** 8
 
-**Days OFF: 4
+**Days OFF: 8
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -1083,24 +1083,27 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 - Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** [link-to-work](#)
-
-<hr />
-
-### Day 86: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
+**Link to work:** None
 
 <hr />
 
+### Day 86: May 22. Monday
 
-### Day 87: ...
+**Today's Progress**:
+
+- Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+- Started Section 1 and 2 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/)
+
+**Thoughts:** None
+
+**Link to work:** None
+
+<hr />
+
+
+### Day 87:  May 23. Monday
 
 **Today's Progress**: ...
 
