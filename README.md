@@ -1103,35 +1103,46 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 87:  May 23. Monday
+### Day 87: May 23. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+- Finished Section 2 and started Section 3 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/)
+- Started a pen on Codepen for my weekly or biweekly simple css pens I'm thinking of doing. See the progress [here]().
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Learnt about [SVGOMG](https://jakearchibald.github.io/svgomg/) for optimizing svgs (I always forget the address.)
 
-<hr />
-
-
-### Day 88: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's progress*
 
 <hr />
 
 
-### Day 89: ...
+### Day 88: May 24. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Ran out of time today at work, and couldn't code. So unplanned **DAY OFF**
+
+**Thoughts:** 
+
+- I will set every day 1hr of Coding in the evenings as well, instead of every morning like I usually do.
+- Learnt about Service workers in the chrome console and implemented one on my webpack.
+
+**Link to work:** None
+
+<hr />
+
+
+### Day 89: May 25. Thursday
+
+**Today's Progress**:
+
+- Finished Section 6  and Started Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+- Continued working on  Section 3 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/)
 
 **Thoughts:** ...
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's progress*
 
 <hr />
 
