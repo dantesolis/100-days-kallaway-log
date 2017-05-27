@@ -4,9 +4,9 @@
 
 **End Date** ...
 
-**Xtra Days to add** 8
+**Xtra Days to add** 9
 
-**Days OFF: 8
+**Days OFF: 9
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -1108,8 +1108,8 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Today's Progress**:
 
 - Continue working on Section 6 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
-- Finished Section 2 and started Section 3 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/)
-- Started a pen on Codepen for my weekly or biweekly simple css pens I'm thinking of doing. See the progress [here]().
+- Finished Section 2 and started Section 3 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/) Udemy Course
+- Started a pen on Codepen for my weekly or biweekly simple css pens I'm thinking of doing. See the progress [here](https://codepen.io/intercoder/pen/b26574ca58d5b0df27dbe2d70ab55fca).
 
 **Thoughts:** Learnt about [SVGOMG](https://jakearchibald.github.io/svgomg/) for optimizing svgs (I always forget the address.)
 
@@ -1138,29 +1138,32 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Today's Progress**:
 
 - Finished Section 6  and Started Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
-- Continued working on  Section 3 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/)
+- Continued working on Section 3 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
 <hr />
 
 
-### Day 90: ...
+### Day 90: May 26. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Finished Section 3 and strated on Section 4 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/) Udemy Course.
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
+
+**Link to work:** None
 
 <hr />
 
 
-### Day 91: ...
+### Day 91: May 27. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**:
+-
 
 **Thoughts:** ...
 
@@ -1181,6 +1184,39 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 
 ### Day 93: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 94: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 95: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 96: ...
 
 **Today's Progress**: ...
 
