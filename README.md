@@ -1163,22 +1163,25 @@ Warning: It looks like you're using a minified copy of the development build of 
 ### Day 91: May 27. Saturday
 
 **Today's Progress**:
--
 
-**Thoughts:** ...
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 
 
-### Day 92: ...
+### Day 92: May 28. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
