@@ -1186,31 +1186,36 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 93: ...
+### Day 93: May 29. Monday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+- Worked a bit on styling on some mini boards I'm doing on [codepen](https://codepen.io/intercoder/pen/61d01e9a6203d7310a748f1a88a59fe4).
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
 
-<hr />
-
-
-### Day 94: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's progress*
 
 <hr />
 
 
-### Day 95: ...
+### Day 94: May 30. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 95: May 30. Wednesday
+
+**Today's Progress**:
 
 **Thoughts:** ...
 
