@@ -4,9 +4,9 @@
 
 **End Date** ...
 
-**Xtra Days to add** 9
+**Xtra Days to add** 10
 
-**Days OFF: 9
+**Days OFF: 10
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -1213,7 +1213,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 95: May 30. Wednesday
+### Day 95: May 31. Wednesday
 
 **Today's Progress**:
 
@@ -1226,7 +1226,43 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 96: ...
+### Day 96: June 01. Thursday
+
+**Today's Progress**:
+
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 97: June 02. Friday
+
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 98: June 03. Saturday
+
+**Today's Progress**:
+
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 99: ...
 
 **Today's Progress**: ...
 
@@ -1237,6 +1273,101 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
+### Day 100: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 101: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 102: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 103: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+### Day 104: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+### Day 105: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 106: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 107: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 108: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
 <hr />
 
 Made with &copy; 2017 D/S
