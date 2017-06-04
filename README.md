@@ -1262,13 +1262,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 99: ...
+### Day 99: June 04. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**
 
-**Thoughts:** ...
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Learning about redux-thunk
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 

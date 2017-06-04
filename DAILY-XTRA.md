@@ -614,13 +614,11 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-
 ### Day 96: May 31. Wednesday
 
 - None
 
 <hr/>
-
 
 ### Day 97: June 01. Thursdsay
 
@@ -642,12 +640,82 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 100: ...
+
+### Day 100: June 04. Sunday
+
+- None
+
+<hr/>
+
+### Day 101: ...
 
 - ...
 
 <hr/>
 
+
+### Day 102: ...
+
+- ...
+
+<hr/>
+
+
+### Day 103: ...
+
+- ...
+
+<hr/>
+
+
+### Day 104: ...
+
+- ...
+
+<hr/>
+
+
+### Day 105: ...
+
+- ...
+
+<hr/>
+
+
+### Day 106: ...
+
+- ...
+
+<hr/>
+
+
+### Day 107: ...
+
+- ...
+
+<hr/>
+
+
+### Day 108: ...
+
+- ...
+
+<hr/>
+
+
+
+### Day 109: ...
+
+- ...
+
+<hr/>
+
+
+### Day 110: ...
+
+- ...
+
+<hr/>
 Find me at [codewars](https://www.codewars.com/users/intercoder)
 
 
