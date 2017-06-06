@@ -1275,13 +1275,13 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 100: ...
+### Day 100: June 05. Monday
 
-**Today's Progress**: ...
+**Today's Progress**: **DAY OFF** -  Maladie
 
-**Thoughts:** ...
+**Thoughts:** **DAY OFF** -  Maladie
 
-**Link to work:** [link-to-work](#)
+**Link to work:** **DAY OFF** -  Maladie
 
 <hr />
 
