@@ -1300,13 +1300,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 102: ...
+### Day 102: June 07. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+- Started [Learn Redux](https://www.learnredux.com/) course with Wesbos. [reduxstagram](http://github.com/dantesolis/reduxstagram)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
