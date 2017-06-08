@@ -1314,17 +1314,20 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 103: ...
+### Day 103: June 08. Thursday 
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+- Continue working on [Learn Redux](https://www.learnredux.com/) course with Wesbos. [reduxstagram](http://github.com/dantesolis/reduxstagram)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Having minor bugs with redux form and how to use it with the signin component.
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 
-### Day 104: ...
+### Day 104: June 09. Friday
 
 **Today's Progress**: ...
 
