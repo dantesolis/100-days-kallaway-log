@@ -4,9 +4,9 @@
 
 **End Date** ...
 
-**Xtra Days to add** 10
+**Xtra Days to add** 11
 
-**Days OFF: 10
+**Days OFF: 11
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -1329,21 +1329,23 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 104: June 09. Friday
 
-**Today's Progress**: ...
+**Today's Progress**: **DAY OFF**
 
-**Thoughts:** ...
+**Thoughts:** **DAY OFF**
 
-**Link to work:** [link-to-work](#)
+**Link to work:** **DAY OFF**
 
 <hr />
 
-### Day 105: ...
+### Day 105: June 10. Saturday
 
-**Today's Progress**: ...
+**Today's Progress**: 
 
-**Thoughts:** ...
+- Continue working on [Learn Redux](https://www.learnredux.com/) course with Wesbos. [reduxstagram](http://github.com/dantesolis/reduxstagram)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Almost done with course. Understanding more and more of redux and stores/
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 
@@ -1379,6 +1381,40 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Link to work:** [link-to-work](#)
 
 <hr />
+
+
+### Day 109: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+### Day 110: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
+### Day 111: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** [link-to-work](#)
+
+<hr />
+
+
 <hr />
 
 Made with &copy; 2017 D/S
