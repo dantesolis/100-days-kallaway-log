@@ -1350,29 +1350,33 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 106: ...
+### Day 106: June 11. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Finished [Learn Redux](https://www.learnredux.com/) course with Wesbos. [reduxstagram](http://github.com/dantesolis/reduxstagram).
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
 
-**Link to work:** [link-to-work](#)
+**Thoughts:** Learning about [transform-class-properties](https://babeljs.io/docs/plugins/transform-class-properties/) in react and JS in general. Thanks babel 👍.
 
-<hr />
-
-
-### Day 107: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's progress*
 
 <hr />
 
 
-### Day 108: ...
+### Day 107: June 12. Monday
+
+**Today's Progress**:
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server)
+
+**Thoughts:** Learnt about `Ctrl + Shift + D` to toogle between chrome console dock states.
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 108: June 13. Tuesday
 
 **Today's Progress**: ...
 
