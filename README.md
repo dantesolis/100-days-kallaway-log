@@ -1378,16 +1378,17 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 108: June 13. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server).
 
-**Thoughts:** ...
+**Thoughts:** Learnt about `npm run` for listing all scripts inside my `package.json`; `npm ls --depth 0` to list all packages inside my `package.json`.
 
-**Link to work:** [link-to-work](#)
+**Link to work:** *See Today's progress*
 
 <hr />
 
 
-### Day 109: ...
+### Day 109: June 13. Wednesday
 
 **Today's Progress**: ...
 
