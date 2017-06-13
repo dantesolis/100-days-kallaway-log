@@ -1380,6 +1380,9 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**:
 - Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server).
+- Started [Beginners Guide to Affinity Design](https://www.udemy.com/the-beginners-guide-to-affinity-designer/) Course in Udemy.
+- Started drawing my future one page site. Very very minimalgst
+
 
 **Thoughts:** Learnt about `npm run` for listing all scripts inside my `package.json`; `npm ls --depth 0` to list all packages inside my `package.json`.
 
