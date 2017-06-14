@@ -1400,7 +1400,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**:
 - Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server).
-- Continue working on Section 3 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/).
+- Continue working on Section 4 of [Learn-svg-animation](https://www.udemy.com/learn-svg-animation/learn/).
 
 **Thoughts:** Getting my ass kicked with `redux`, `thunk` and displaying Dummy data.
 
