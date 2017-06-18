@@ -4,9 +4,9 @@
 
 **End Date** ...
 
-**Xtra Days to add** 11
+**Xtra Days to add** 14
 
-**Days OFF: 11
+**Days OFF: 14
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -1396,7 +1396,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 109: June 13. Wednesday
+### Day 109: June 14. Wednesday
 
 **Today's Progress**:
 - Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server).
@@ -1408,27 +1408,70 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-### Day 110: ...
+### Day 110: June 15. Thursday
+
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** None
+
+**Link to work:** None
+
+<hr />
+
+
+### Day 111: June 16. Friday
+
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** None
+
+**Link to work:** None
+
+<hr />
+
+
+### Day 112: June 17. Satuday
+
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** None
+
+**Link to work:** None
+
+
+<hr />
+
+### Day 113: June 18. Sunday
 
 **Today's Progress**: ...
 
 **Thoughts:** ...
 
-**Link to work:** [link-to-work](#)
+**Link to work:** ...
+
 
 <hr />
 
-
-### Day 111: ...
+### Day 114: ...
 
 **Today's Progress**: ...
 
 **Thoughts:** ...
 
-**Link to work:** [link-to-work](#)
+**Link to work:** ...
 
 <hr />
 
+### Day 115: ...
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+
+<hr />
 
 <hr />
 

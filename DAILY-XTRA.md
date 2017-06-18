@@ -1,10 +1,12 @@
 # Daily Log of katas from [codewars](https://www.codewars.com)
 
-**Start Date** 27 Feb 2017
+**Start Date:** 27 Feb 2017
 
-**End Date** ...
+**End Date:** 18 JUN 2017
 
-**Xtra Days to add** 79
+**Xtra Days to add:** 83
+
+**Summary:** Starting a new log, cause missed too many days. Need to set at least 30mins aside each day, on top of the time I had set out for my personal projects and ready codifng books. To really complete this challenge. **This log will be moved to a different repo.*
 
 **Inspiration** To be attached to my 100DaysOfCodeChallenge. Was doing it already, but stopped for some reason. Now beginning again, cause who doesn't want to solve simple algorithms? 😀
 
@@ -716,18 +718,31 @@ Would be adding an extra date or doing additional katas on the following dates t
 
 <hr/>
 
-### Day 111: ...
+### Day 111: June 15. Thursday
 
-- ...
+- None
+
+<hr/>
+
+
+### Day 112: June 16. Friday
+
+- None
 
 <hr/>
 
+### Day 113: June 17. Saturday
 
-### Day 112: ...
-
-- ...
+- None
 
 <hr/>
+
+### Day 114: June 18. Sunday
+
+- None ## STOPPING IT TO BEGIN A NEW ONE.
+
+<hr/>
+
 Find me at [codewars](https://www.codewars.com/users/intercoder)
 
 
