@@ -2,7 +2,7 @@
 
 **Start Date** 25 Feb 2017
 
-**End Date** ...
+**End Date** 23 June 2017
 
 **Xtra Days to add** 14
 
@@ -1443,32 +1443,69 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 113: June 18. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**: 
 
-**Thoughts:** ...
+- Started repo for blog splash screen. Personal [site](https://github.com/dantesolis/splash) and another log/repo for [100-days-of-ui](github.com/dantesolis/100-days-ui-log) challenge.
+- Started working on Udemy course about Framer.
 
-**Link to work:** ...
+**Thoughts:** None
+
+**Link to work:** None
+
+
+<hr />
+
+### Day 114: June 19. Monday
+
+**Today's Progress**: **SICKNESS DAY / DAY OFF**
+
+**Thoughts:** **SICKNESS DAY**
+
+**Link to work:** **SICKNESS DAY**
+
+<hr />
+
+### Day 115: June 20. Tuesday
+
+**Today's Progress**: **SICKNESS DAY / DAY OFF**
+
+**Thoughts:** **SICKNESS DAY**
+
+**Link to work:** **SICKNESS DAY**
 
 
 <hr />
 
-### Day 114: ...
+### Day 116: June 21. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**: **SICKNESS DAY / DAY OFF**
 
-**Thoughts:** ...
+**Thoughts:** **SICKNESS DAY**
 
-**Link to work:** ...
+**Link to work:** **SICKNESS DAY**
+
 
 <hr />
 
-### Day 115: ...
+### Day 117: June 22. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**: **SICKNESS DAY / DAY OFF**
 
-**Thoughts:** ...
+**Thoughts:** **SICKNESS DAY**
 
-**Link to work:** ...
+**Link to work:** **SICKNESS DAY**
+
+
+<hr />
+
+
+### Day 117: June 23. Friday
+
+**Today's Progress**: End of entry to log. This might be moving to another log.
+
+**Thoughts:** End of entry to log. This might be moving to another log.
+
+**Link to work:** End of entry to log. This might be moving to another log.
 
 
 <hr />
