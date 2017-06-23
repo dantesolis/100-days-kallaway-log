@@ -1484,7 +1484,6 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Link to work:** **SICKNESS DAY**
 
-
 <hr />
 
 ### Day 117: June 22. Thursday
@@ -1499,7 +1498,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 117: June 23. Friday
+### Day 117: June 23. Friday **UPDATE:** Decided to extended and continue adding to this log. Let's do another 100 days.
 
 **Today's Progress**: End of entry to log. This might be moving to another log.
 
@@ -1507,6 +1506,29 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Link to work:** End of entry to log. This might be moving to another log.
 
+**UPDATE:** Decided to extended and continue adding to this log. Let's do another 100 days.
+
+**Today's Progress**:
+
+- Worked on [splash](https://github.com/dantesolis/splash) repo. Future minimalistic site for personal things/
+- Created the repo for the [100-days-of-ui](https://github.com/dantesolis/100-days-ui-log).
+- Continue working on Section 7 of [Advanced-React-and-Redux](https://www.udemy.com/react-redux-tutorial/) Udemy Course. [server-repo-pvt](http://github.com/dantesolis/server).
+
+**Thoughts:**. Falling in love with `npm ls --depth 0` to read my package dependecies from the console.
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+<hr />
+
+### Day 118: June 24. Saturday
+
+**Today's Progress**: ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
 
 <hr />
 
