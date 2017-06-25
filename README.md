@@ -1527,7 +1527,6 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 - Worked on [splash](https://github.com/dantesolis/splash) repo. Future minimalistic site for personal things. Installed and set up browser-sync. Using gulp@4.
 
-
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
@@ -1536,11 +1535,14 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 ### Day 119: June 25. Sunday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Started [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+- Fixed the file not found problem I was having with my stylesheets. Styles loading correctly. [splash](https://github.com/dantesolis/splash) repo
 
-**Link to work:** ...
+**Thoughts:** None
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 
@@ -1676,3 +1678,5 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 Made with &copy; 2017 D/S
+
+
