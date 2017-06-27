@@ -1546,23 +1546,28 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-### Day 120: ...
+### Day 120: June 26. Monday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Started [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+- Fixed the file not found problem I was having with my stylesheets. Styles loading correctly. [splash](https://github.com/dantesolis/splash) repo
 
-**Link to work:** ...
+**Thoughts:** None
+
+**Link to work:** *See Today's Progress*
 
 <hr />
 
-### Day 121: ...
+### Day 121: June 27. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Started [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) 
+- Worked on a personal app that I'm building with a friend in `react native` and `redux`. Set up teh project and added `storybook` to it. @Storybook is still a bit buggy.
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** *See Today's Progress*
 
 <hr />
 
