@@ -1563,7 +1563,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**:
 - Started [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) 
-- Worked on a personal app that I'm building with a friend in `react native` and `redux`. Set up teh project and added `storybook` to it. @Storybook is still a bit buggy.
+- Worked on a personal app that I'm building with a friend in `react native` and `redux`. Set up the project and added `storybook` to it. @Storybook is still a bit buggy.
 
 **Thoughts:** None
 
@@ -1572,13 +1572,15 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 122: ...
+### Day 122: June 28. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**: 
 
-**Thoughts:** ...
+- Continue working on [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) 
 
-**Link to work:** ...
+**Thoughts:** Problems with loading react-native on the simulator.
+
+**Link to work:** None
 
 <hr />
 
