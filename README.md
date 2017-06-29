@@ -1577,6 +1577,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 **Today's Progress**: 
 
 - Continue working on [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) 
+- Worked on Section 1 & 2 of [11-Minutes-of-Framer](https://www.udemy.com/in-11-minutes-basics-in-framer/learn/v4/content) udemy course.
 
 **Thoughts:** Problems with loading react-native on the simulator.
 
@@ -1585,13 +1586,16 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 123: ...
+### Day 123: June 29. Thursday
 
-**Today's Progress**: ...
+**Today's Progress**:
 
-**Thoughts:** ...
+- Continue working on Section 5 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+- Implemented various scripts for cleaning `npm|watchman-cache` for cleaning and running multiple instances of react-native in simulator. [seeker](https://github.com/dantesolis/seeker) repo
 
-**Link to work:** ...
+**Thoughts:** Learning more and more about writing scripts in `package.json` `npm`
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
