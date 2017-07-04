@@ -1645,9 +1645,11 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-### Day 128: ...
+### Day 128: July 03. Tuesday
 
-**Today's Progress**: ...
+**Today's Progress**: 
+
+- Started Section 6 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
 
 **Thoughts:** ...
 
