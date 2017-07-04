@@ -1600,48 +1600,50 @@ Warning: It looks like you're using a minified copy of the development build of 
 <hr />
 
 
-### Day 124: ...
+### Day 124: June 30. Friday
 
-**Today's Progress**: ...
+**Today's Progress**:
+- Continue working on Section 5 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
-
-<hr />
-
-
-### Day 125: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** ...
+**Link to work:** *See Today's Progress*
 
 <hr />
 
+### Day 125: July 01. Saturday
 
-### Day 126: ...
+**Today's Progress**: 
+- Continue working on Section 5 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+- Worked on [seeker](https://github.com/dantesolis/seeker) react-native app
 
-**Today's Progress**: ...
+**Thoughts:** Having problems with implementing storybook
 
-**Thoughts:** ...
-
-**Link to work:** ...
-
-<hr />
-
-### Day 127: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** ...
+**Link to work:** *See Today's Progress*
 
 <hr />
 
+### Day 126: July 02. Sunday
+
+**Today's Progress**: 
+- Continue working on Section 5 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+
+**Thoughts:** None
+
+**Link to work:** *See Today's Progress*
+
+<hr />
+
+### Day 127: July 03. Monday
+
+**Today's Progress**:
+- Worked on [seeker](https://github.com/dantesolis/seeker) react-native app. Implemented splash screen, button and cleaned npm scripts.
+
+**Thoughts:** Still having problems showiing my stories inside `@storybook/react-native`
+
+**Link to work:** *See Today's Progress*
+
+<hr />
 
 ### Day 128: ...
 
