@@ -1645,48 +1645,73 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-### Day 128: July 03. Tuesday
+### Day 128: July 04. Tuesday
 
 **Today's Progress**: 
 
 - Started Section 6 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
 
+**Thoughts:** None
+
+**Link to work:** None
+
+<hr />
+
+
+### Day 129: July 05. Wednesday
+
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** **DAY OFF**
+
+**Link to work:** **DAY OFF**
+
+<hr />
+
+
+### Day 130: July 06. Thursday
+
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** **DAY OFF**
+
+**Link to work:** **DAY OFF**
+
+<hr />
+
+
+### Day 131 - 132: July 07. - July 18.
+
+**Today's Progress**: Long break due to personal reasons. Back to coding yo 💯 💩
+
+**Thoughts:** None, just happy I'm feeling better.
+
+**Link to work:** None
+
+<hr />
+
+
+### Day 133: July 18. Tuesday
+
+**Today's Progress:**
+
+- Continue working on Section 5 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+
 **Thoughts:** ...
 
 **Link to work:** ...
 
 <hr />
 
-
-### Day 129: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** ...
-
 <hr />
 
-
-### Day 130: ...
-
-**Today's Progress**: ...
-
-**Thoughts:** ...
-
-**Link to work:** ...
-
-<hr />
-
-
-### Day 131: ...
+### Day 134: July 19. Wednesday
 
 **Today's Progress**: ...
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** *See Today's progress*
 
 <hr />
 
