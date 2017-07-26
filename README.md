@@ -1684,7 +1684,7 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 **Today's Progress**: Long break due to personal reasons. Back to coding yo 💯 💩
 
-**Thoughts:** None, just happy I'm feeling better.
+**Thoughts:** None, just happy I'm feeling better. **DAYS OFF 11**
 
 **Link to work:** None
 
@@ -1697,15 +1697,28 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 - Continue working on Section 5 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
-
-<hr />
+**Link to work:** None
 
 <hr />
 
-### Day 144: July 19. Wednesday
+
+### Day 144 - 151: July 19. Wednesday - July 26. Wednesday
+
+**Today's Progress**: A Whole week OFF. Today marks a whole week off 
+
+**Thoughts:** **DAYS OFF 7** 
+
+Thinking on how best to proceed. Maybe Begin another 100 Days in the following month. To have somewhat of a "clean" start with an almost month break in between. 
+
+Trying to find the time between work and personal stuff to log continue on the log. Have work on side projects, but sporadically. Somewhat miss the daily "intensity"/routine of the logging.
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 145 - : July 19. Wednesday
 
 **Today's Progress**: ...
 
@@ -1715,7 +1728,8 @@ Warning: It looks like you're using a minified copy of the development build of 
 
 <hr />
 
-<hr />
+
+
 
 Made with &copy; 2017 D/S
 
