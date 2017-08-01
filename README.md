@@ -2,7 +2,7 @@
 
 **Start Date** 25 Feb 2017
 
-**End Date** 23 June 2017
+**End Date** 31 July 2017
 
 **Xtra Days to add** 14
 
@@ -1718,9 +1718,36 @@ Trying to find the time between work and personal stuff to log continue on the l
 
 <hr />
 
-### Day 145 - : July 19. Wednesday
+### Day 151: July 26. Wednesday
 
-**Today's Progress**: ...
+**Today's Progress**:
+
+- Finished Section 6 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+
+- Restarted the seeker repo since it was outdated and needed to be cleaned. Sets up the project. Repo is set to pvt.
+
+**Thoughts:**
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 152 - 153: July 27. Thursday - July 28. Friday
+
+**Today's Progress**: **DAY OFF**
+
+**Thoughts:** **DAY OFF**
+
+**Link to work:** **DAY OFF**
+
+<hr />
+
+### Day 154: July 29. Saturday
+
+**Today's Progress**:
+
+- Continued working on seeker React-Native app [repo pvt:](https://github/dantesolis/seeker). Fixed some bugs and created the splash screen.
 
 **Thoughts:** None
 
@@ -1729,8 +1756,30 @@ Trying to find the time between work and personal stuff to log continue on the l
 <hr />
 
 
+### Day 154: July 30. Sunday
 
+**Today's Progress**:
+
+- Finished Section 6 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+
+- Continued working on seeker React-Native app [repo pvt:](https://github/dantesolis/seeker). Fixed some bugs and created the signup screen.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 154: July 31. Monday
+
+**Today's Progress**:
+
+
+- Continued working on seeker React-Native app [repo pvt:](https://github/dantesolis/seeker). Fixed some bugs and created the signup screen. Added  `<TextInput />` components to the `<SignUp />` component
+
+**Thoughts:** *This log will be closed today. Will be opening a new one*
+
+**Link to work:** *See Today's progress*
 
 Made with &copy; 2017 D/S
-
-
