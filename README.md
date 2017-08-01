@@ -9,12 +9,13 @@
 
 ## Log
 
-### Day : 
+### Day 1: 01 Aug. Tuesday
 
-**Today's Progress**: 01 Aug. Tuesday
-
+**Today's Progress**: 
 
 - Continued Working on Section 7 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0)
+
+- Added tests for the React Native app to the following components: `<Splash />, <Signup />, <App />, <Input/>`. Using `jest` and `react-test-renderer`
 
 **Thoughts:** None
 
