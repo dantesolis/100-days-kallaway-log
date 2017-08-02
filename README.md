@@ -23,4 +23,20 @@
 
 <hr />
 
+### Day 2: 02 Aug. Wednesday
+
+**Today's Progress**: 
+
+- Continued Working on Section 7 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+
+- Continued working on pvt React Native app, cleaning the `<Input />` components on the `<Signup />` view component and add a `<Button />` component.
+
+**Not Code:** Started chapter 3 of **"Javascript the Good parts"** and continued chapter 3 of **"The Pragmatic Programmer"**
+
+**Thoughts:** Need to find a way to clean my stylesheets for the react native app.
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 Made with &copy; 2017 D/S
