@@ -44,10 +44,9 @@
 **Today's Progress**: 
 
 -  Work on the splash single page app for future personal blog.
-
 - Created mockups for seeker. Trying to define a styleguide for *Splash* and *pvt React Native App*
-
 - Continued working on pvt React Native app. Created components for the `Signin />`, `<Signup />`, and a `<Switch />` component. Added a navigation component and connected the backend.
+- Continue working on section 7 of the [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
 
 
 **Not Code:** Started chapter 3 of **"Javascript the Good parts"** and continued chapter 3 of **"The Pragmatic Programmer"**
@@ -55,6 +54,80 @@
 **Thoughts:** Need to find a way to organize all my work. Goal is to finish my mini site, publish it and then just concentrate on the *pvt RN app*.
 
 **Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 25: 25 Aug. Friday
+
+**Today's Progress**: 
+
+- Finished section 7 of the [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [albums](https://github.com/dantesolis/albums).
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 26: 26 Aug. Saturday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 27: 27 Aug. Sunday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+
+### Day 28: 28 Aug. Monday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 29:
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 30:
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
 
 <hr />
 
