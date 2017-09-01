@@ -76,26 +76,54 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 **Today's Progress**: 
 
-- ...
+- Started section 8 of the [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [albums](https://github.com/dantesolis/albums).
 
 **Thoughts:** ...
 
-**Link to work:** ...
+**Link to work:** *See Today's progress*
 
 <hr />
 
 ### Day 27: 27 Aug. Sunday
 
+**Today's Progress**:  DAY OFF
+
+- DAY OFF
+
+**Thoughts:** None
+
+**Link to work:** None
+
+
+### Day 28 - 31: 28 Aug. Monday - 31 Aug. Thursday
+
 **Today's Progress**: 
 
-- ...
+- Worked on the splash app. Fix some code with javascript and the typography.
+- Worked on the React Native app. Configured `eslint`, `prettier`, `flow` and all the related plugins.
+- Created  React Component for code-highlighting. Trying to publish it as node module and publishing it to `npm`. Missing tests.
 
-**Thoughts:** ...
+**Thoughts:** Thinking about importing my own personal eslint-config to npm since I have already set it up 3 times.
 
-**Link to work:** ...
+**Link to work:** Repo's set to pvt, except [splash](https://github.com/dantesolis/splash)
 
+<hr />
 
-### Day 28: 28 Aug. Monday
+### Day 32: 01 Sep. Friday
+
+**Today's Progress**:
+
+- Spent my day configuring my Sublime Text editor, for eslint, jshint, flow and prettier.
+- Worked on the React Native app.
+
+**Thoughts:** Productive Day, but not that much.
+
+**Link to work:** Repo set to pvt
+
+<hr />
+
+### Day 33: 02 Sep. Friday
 
 **Today's Progress**: 
 
@@ -107,7 +135,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 <hr />
 
-### Day 29:
+### Day 34: 03 Sep. Friday
 
 **Today's Progress**: 
 
@@ -119,7 +147,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 <hr />
 
-### Day 30:
+### Day 35: 04 Sep. Friday
 
 **Today's Progress**: 
 
@@ -130,5 +158,30 @@ Repo [albums](https://github.com/dantesolis/albums).
 **Link to work:** ...
 
 <hr />
+
+### Day 36: 05 Sep. Friday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 37: 06 Sep. Friday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
 
 Made with &copy; 2017 D/S
