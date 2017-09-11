@@ -4,6 +4,8 @@
 
 **End Date** ...
 
+**Days Xtra to Add**  1 week (7 days)
+
 **Inspiration** Wanted to do another 90 Days. You can see my previous log [here](previous_logs/README_OLD.md).
 
 
@@ -123,7 +125,34 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 <hr />
 
-### Day 33: 02 Sep. Friday
+### Day 33 - Day 40: 02 Sep. Friday - 08 Sep. Friday
+
+**Today's Progress**: **DAYS OFF DUE TO SICKNESS**
+
+- **DAYS OFF DUE TO SICKNESS**
+
+**Thoughts:** **DAYS OFF DUE TO SICKNESS**
+
+**Link to work:** **DAYS OFF DUE TO SICKNESS**
+
+<hr />
+
+### Day 41, 42, 43: 09, 10, 11 Sep. Sat, Sun, Monday
+
+**Today's Progress**:
+
+- Continued working on Section 8 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [albums](https://github.com/dantesolis/albums).
+
+- Read 1 page each day of **JS the Good parts**. Currently on Chapter 3 Objects. You can see jsfiddle of my rough notes [here](https://jsfiddle.net/intercoder/nzyo13fo/35/)
+
+**Thoughts:** Trying to get back on track. I thought I have missed a lot more days, but 1 week is catchable. Hate missing days though, feel like I have forgotten everything I did.
+
+**Link to work:** See *Today's progress*
+
+<hr />
+
+### Day 44: 12 Sep. Tuesday
 
 **Today's Progress**: 
 
@@ -135,7 +164,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 <hr />
 
-### Day 34: 03 Sep. Friday
+### Day 45: 13 Sep. Wednesday
 
 **Today's Progress**: 
 
@@ -147,7 +176,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 <hr />
 
-### Day 35: 04 Sep. Friday
+### Day 46: 14 Sep. Thursday
 
 **Today's Progress**: 
 
@@ -159,19 +188,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 <hr />
 
-### Day 36: 05 Sep. Friday
-
-**Today's Progress**: 
-
-- ...
-
-**Thoughts:** ...
-
-**Link to work:** ...
-
-<hr />
-
-### Day 37: 06 Sep. Friday
+### Day 47: 15 Sep. Friday
 
 **Today's Progress**: 
 
