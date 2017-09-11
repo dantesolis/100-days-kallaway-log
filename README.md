@@ -4,7 +4,10 @@
 
 **End Date** ...
 
-**Days Xtra to Add**  1 week (7 days)
+**Days Xtra to Add:**
+  - 1 day off 27 August 
+  - 1 week off (7 days) 02 - 08 Sep
+  Total: 8 days
 
 **Inspiration** Wanted to do another 90 Days. You can see my previous log [here](previous_logs/README_OLD.md).
 
@@ -90,8 +93,6 @@ Repo [albums](https://github.com/dantesolis/albums).
 ### Day 27: 27 Aug. Sunday
 
 **Today's Progress**:  DAY OFF
-
-- DAY OFF
 
 **Thoughts:** None
 
