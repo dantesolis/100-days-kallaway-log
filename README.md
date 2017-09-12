@@ -92,7 +92,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 ### Day 27: 27 Aug. Sunday
 
-**Today's Progress**:  DAY OFF
+**Today's Progress**: **DAY OFF**
 
 **Thoughts:** None
 
@@ -147,6 +147,9 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 - Read 1 page each day of **JS the Good parts**. Currently on Chapter 3 Objects. You can see jsfiddle of my rough notes [here](https://jsfiddle.net/intercoder/nzyo13fo/35/)
 
+- ... **(Continuation)** cause I couldn't go to bed.
+  - Worked on section 2 of [Build-And-Publish-npm-Modules](https://www.udemy.com/node-package-manager-course-build-and-publish-npm-modules/)
+
 **Thoughts:** Trying to get back on track. I thought I have missed a lot more days, but 1 week is catchable. Hate missing days though, feel like I have forgotten everything I did.
 
 **Link to work:** See *Today's progress*
@@ -157,11 +160,14 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 **Today's Progress**: 
 
-- ...
+- Finished Section 8 and started Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [albums](https://github.com/dantesolis/albums).
 
-**Thoughts:** ...
+- Finished Chapter 3 of  **JS the Good parts**. Right now recording my progress on the `Snippets` section of the `Source` panel of Chrome's Console. 
 
-**Link to work:** ...
+**Thoughts:** Using snippets on Chrome console to record my progress. Will be creating a js page to track my progress. I think better idea than using jsfiddle?
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
