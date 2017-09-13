@@ -163,7 +163,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 - Finished Section 8 and started Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
 Repo [albums](https://github.com/dantesolis/albums).
 
-- Finished Chapter 3 of  **JS the Good parts**. Right now recording my progress on the `Snippets` section of the `Source` panel of Chrome's Console. 
+- Finished Chapter 3 of **JS the Good parts**. Right now recording my progress on the `Snippets` section of the `Source` panel of Chrome's Console. 
 
 **Thoughts:** Using snippets on Chrome console to record my progress. Will be creating a js page to track my progress. I think better idea than using jsfiddle?
 
@@ -173,13 +173,33 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 ### Day 45: 13 Sep. Wednesday
 
-**Today's Progress**: 
+**Today's Progress**:
 
-- ...
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
-**Thoughts:** ...
+- Started and finished Section 2 of [Beginners-Guide-To-Affinity-Design](https://www.udemy.com/the-beginners-guide-to-affinity-designer/) Udemy Course.
 
-**Link to work:** ...
+- Started Chapter 4 of **JS the Good parts: Functions**. Right now recording my progress on the `Snippets` section of the `Source` panel of Chrome's Console.
+
+- Updated my fork for an Open-Source project I'm contributing to. Tackling that tomorrow morning.
+
+**Thoughts:** 
+
+- Learnt about how to `import` and `export` components in a single line: `export * from './myComponent';` inside a common `index.js` file.
+
+...After thinkering around:
+
+  *webpack:*
+
+    - learnt the difference between `path.resolve(__dirname, '/myDir')` and `path.resolve('/myDir')`. the latter creates the directory if it doesn't already exist if and it takes into account where that config file exist. Oh webpack, thanks for this small knowledge-bits 🙃.
+
+  *console:*
+
+    - learnt that `mkdir -p /firstDir/nestedDir/anotherNestedDir` actually creates all those directories in that order, this is vs. `mkdir /firstDir/nestedDir/anotherNestedDir` which will throw an error since those directories don't yet exist.
+
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
