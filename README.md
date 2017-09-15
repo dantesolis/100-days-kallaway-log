@@ -207,11 +207,16 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
-**Thoughts:** ...
+- Started on Section 3 of [Beginners-Guide-To-Affinity-Design](https://www.udemy.com/the-beginners-guide-to-affinity-designer/) Udemy Course.
 
-**Link to work:** ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions**. Right now recording my progress on the `Snippets` section of the `Source` panel of Chrome's Console.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress.*
 
 <hr />
 
