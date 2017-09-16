@@ -229,14 +229,46 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Continued working on Section 3 of [Beginners-Guide-To-Affinity-Design](https://www.udemy.com/the-beginners-guide-to-affinity-designer/) Udemy Course.
 
-**Thoughts:** ...
+- Completed a PR *Issue-590* on [codebuddies](https://github.com/codebuddiesdotorg/codebuddies)
 
-**Link to work:** ...
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
 
 ### Day 48: 15 Sep. Saturday
+
+**Today's Progress**:
+
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
+
+**Thoughts:** None
+
+**Link to work:** ...
+
+<hr />
+
+### Day 49: 15 Sep. Sunday
+
+**Today's Progress**: 
+
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
+
+- Continue working on a style guide mockup I'm trying to do while learning *Affinity Designer*
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 50: 16 Sep. Monday
 
 **Today's Progress**: 
 
@@ -248,7 +280,67 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 49: 15 Sep. Sunday
+### Day 51: 17 Sep. Tuesday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 52: 16 Sep. Wednesday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 53: 17 Sep. Thursday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 54: 18 Sep. Friday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 55: 19 Sep. Saturday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 56: 19 Sep. Sunday
 
 **Today's Progress**: 
 
