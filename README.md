@@ -224,7 +224,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
+
+- Continued working on Section 3 of [Beginners-Guide-To-Affinity-Design](https://www.udemy.com/the-beginners-guide-to-affinity-designer/) Udemy Course.
 
 **Thoughts:** ...
 
@@ -233,4 +236,28 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 <hr />
 
 
-Made with &copy; 2017 D/S
+### Day 48: 15 Sep. Saturday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 49: 15 Sep. Sunday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+Made with ❤️ &copy; 2017 D/S 💯
