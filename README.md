@@ -279,6 +279,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Started working on [codewars-kata-supersize-me](https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/train/javascript)
 
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Constructor pattern 
+
+
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
