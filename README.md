@@ -260,7 +260,9 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Continue working on a style guide mockup I'm trying to do while learning *Affinity Designer*
 
-- ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Method Invocation Pattern
+  - Function Invocation Pattern
 
 **Thoughts:** None
 
