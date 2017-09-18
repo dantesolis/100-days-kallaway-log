@@ -238,7 +238,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 <hr />
 
 
-### Day 48: 15 Sep. Saturday
+### Day 48: 16 Sep. Saturday
 
 **Today's Progress**:
 
@@ -251,7 +251,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 49: 15 Sep. Sunday
+### Day 49: 17 Sep. Sunday
 
 **Today's Progress**: 
 
@@ -270,15 +270,18 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 50: 16 Sep. Monday
+### Day 50: 18 Sep. Monday
 
-**Today's Progress**: 
+**Today's Progress**:
 
-- ...
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
-**Thoughts:** ...
+- Started working on [codewars-kata-supersize-me](https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/train/javascript)
 
-**Link to work:** ...
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
