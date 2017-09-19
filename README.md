@@ -280,7 +280,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Started working on [codewars-kata-supersize-me](https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/train/javascript)
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
-  - Constructor pattern 
+  - Constructor pattern
 
 
 **Thoughts:** None
@@ -293,11 +293,17 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
-**Thoughts:** ...
+- Finished Section 4 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
 
-**Link to work:** ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Apply Invocation pattern
+
+**Thoughts:** Finally getting the `this` context when it comes to `arrow functions`; `this`on arrow functions are not bound to the functions that creates them, but rather to where the arrow function was declared, i.e, the "parent" element.
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
