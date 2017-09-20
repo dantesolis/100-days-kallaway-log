@@ -294,8 +294,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 **Today's Progress**: 
 
 - Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
-Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Finished Section 4 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
@@ -311,11 +311,16 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Started on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
 
-**Thoughts:** ...
+Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
+- Started Section 5 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
 
-**Link to work:** ...
+- Completed a PR *Issue-603* on [codebuddies](https://github.com/codebuddiesdotorg/codebuddies).
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
