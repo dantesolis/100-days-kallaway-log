@@ -261,8 +261,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Continue working on a style guide mockup I'm trying to do while learning *Affinity Designer*
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
-  - Method Invocation Pattern
-  - Function Invocation Pattern
+  - Method Invocation Pattern (1)
+  - Function Invocation Pattern (2)
 
 **Thoughts:** None
 
@@ -280,7 +280,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Started working on [codewars-kata-supersize-me](https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/train/javascript)
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
-  - Constructor pattern
+  - Constructor pattern (3)
 
 
 **Thoughts:** None
@@ -293,13 +293,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+- Continued working on Section 9 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
-Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Finished Section 4 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
-  - Apply Invocation pattern
+  - Apply Invocation pattern (4)
 
 **Thoughts:** Finally getting the `this` context when it comes to `arrow functions`; `this`on arrow functions are not bound to the functions that creates them, but rather to where the arrow function was declared, i.e, the "parent" element.
 
@@ -311,12 +310,15 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Started on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+- Started on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
-Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
-- Started Section 5 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
+- Started Section 5 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. There's a [codepen](https://codepen.io/intercoder/pen/32d98bead3e199caac5af985bf2e9aa4?editors=0110) for this. But right now set to pvt.
 
 - Completed a PR *Issue-603* on [codebuddies](https://github.com/codebuddiesdotorg/codebuddies).
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Arguments parameter on functions
+  - Return statement
 
 **Thoughts:** None
 
@@ -328,11 +330,13 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+
+- Finished Section 5 and started Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. There's a [codepen](https://codepen.io/intercoder/pen/32d98bead3e199caac5af985bf2e9aa4?editors=0110) for this. But right now set to pvt.
 
 **Thoughts:** ...
 
-**Link to work:** ...
+**Link to work:** *See Today's progress*
 
 <hr />
 
