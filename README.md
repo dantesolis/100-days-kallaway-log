@@ -289,7 +289,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 51: 17 Sep. Tuesday
+### Day 51: 19 Sep. Tuesday
 
 **Today's Progress**: 
 
@@ -306,7 +306,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 52: 16 Sep. Wednesday
+### Day 52: 20 Sep. Wednesday
 
 **Today's Progress**: 
 
@@ -326,7 +326,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 53: 17 Sep. Thursday
+### Day 53: 21 Sep. Thursday
 
 **Today's Progress**: 
 
@@ -334,13 +334,13 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Finished Section 5 and started Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. There's a [codepen](https://codepen.io/intercoder/pen/32d98bead3e199caac5af985bf2e9aa4?editors=0110) for this. But right now set to pvt.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
 <hr />
 
-### Day 54: 18 Sep. Friday
+### Day 54: 22 Sep. Friday
 
 **Today's Progress**: 
 
@@ -352,7 +352,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 55: 19 Sep. Saturday
+### Day 55: 23 Sep. Saturday
 
 **Today's Progress**: 
 
@@ -364,7 +364,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 56: 19 Sep. Sunday
+### Day 56: 24 Sep. Sunday
 
 **Today's Progress**: 
 
