@@ -334,6 +334,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Finished Section 5 and started Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. There's a [codepen](https://codepen.io/intercoder/pen/32d98bead3e199caac5af985bf2e9aa4?editors=0110) for this. But right now set to pvt.
 
+- Worked on a component-playground for my react components using storybook. Repo [component-playground](https://github.com/dantesolis/component-playground)
+
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
@@ -344,7 +346,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+
+- Continued working on Section 6: 'Animating Social Icons' of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. There's a [codepen](https://codepen.io/intercoder/pen/f7a26e58b4a667db494bebccb35ba37c) for this. But right now set to pvt.
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Exceptions
 
 **Thoughts:** ...
 
