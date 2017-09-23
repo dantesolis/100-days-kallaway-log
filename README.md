@@ -365,11 +365,11 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-Da
+- Fixed the requested changes for the PR on [issue-603](https://github.com/codebuddiesdotorg/codebuddies/pull/604).
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** *See Today's progress*
 
 <hr />
 
