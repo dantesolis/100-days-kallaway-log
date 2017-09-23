@@ -353,9 +353,11 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - Exceptions
 
-**Thoughts:** ...
+- Worked on a component-playground for my react components using storybook. Repo [component-playground](https://github.com/dantesolis/component-playground)
 
-**Link to work:** ...
+**Thoughts:** None
+
+**Link to work:** None
 
 <hr />
 
@@ -363,7 +365,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+Da
 
 **Thoughts:** ...
 
