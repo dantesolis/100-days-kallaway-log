@@ -365,7 +365,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Fixed the requested changes for the PR on [issue-603](https://github.com/codebuddiesdotorg/codebuddies/pull/604).
+- Fixed the requested changes for the PR on [issue-603](https://github.com/codebuddiesdotorg/codgebuddies/pull/604).
+
+- Worked on writing tests on [seeker-app](https://github.com/dantesolis/seeker) personal project with a friend. **set-to-pvt**
+
 
 **Thoughts:** None
 
@@ -375,7 +378,24 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 ### Day 56: 24 Sep. Sunday
 
-**Today's Progress**: 
+**Today's Progress**:
+
+- Fixed some tests and worked on fixing some style bugs on [seeker-app](https://github.com/dantesolis/seeker) personal project with a friend. **set-to-pvt**
+
+- Created a `<Logo />`, `<Loader />`, `<Header />` components for my [component-playground](https://github.com/dantesolis/component-playground). Added `propTypes` package and implemented it on the above mention components.
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Augmenting functions with `method` method.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 57: 25 Sep. Monday
+
+**Today's Progress**:
 
 - ...
 
@@ -384,5 +404,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 **Link to work:** ...
 
 <hr />
+
+
 
 Made with ❤️ &copy; 2017 D/S 💯
