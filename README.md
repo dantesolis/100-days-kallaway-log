@@ -397,13 +397,29 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
+- Wrote tests for the `<CustomTextInput />` component. Destructured all props inside the component definition. [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend) 
+
 - ...
 
-**Thoughts:** ...
+**Thoughts:** Learning more about testing React Components
 
-**Link to work:** ...
+**Link to work:** *See Today's progress*
 
 <hr />
+
+
+### Day 58: 26 Sep. Tuesday 
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 
 
 
