@@ -399,7 +399,9 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Wrote tests for the `<CustomTextInput />` component. Destructured all props inside the component definition. [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend) 
 
-- ...
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+
+- Fixed minor typo on [component-playground](https://github.com/dantesolis/component-playground).
 
 **Thoughts:** Learning more about testing React Components
 
