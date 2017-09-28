@@ -5,9 +5,10 @@
 **End Date** ...
 
 **Days Xtra to Add:**
-  - 1 day off 27 August 
+  - 1 day off 27 August
   - 1 week off (7 days) 02 - 08 Sep
-  Total: 8 days
+  - 1 day off 27 Sept 
+  Total: 9 days
 
 **Inspiration** Wanted to do another 90 Days. You can see my previous log [here](previous_logs/README_OLD.md).
 
@@ -397,7 +398,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Wrote tests for the `<CustomTextInput />` component. Destructured all props inside the component definition. [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend) 
+- Wrote tests for the `<CustomTextInput />` component. Destructured all props inside the component definition. [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend).
 
 - Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
 
@@ -414,7 +415,9 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Worked on the writing test for the RN personal app [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend).
+
+- Added various addons [addon-info, addon-knob, addon-storyshot] to [component-playground](https://github.com/dantesolis/component-playground). Configures some of it, but not all. 
 
 **Thoughts:** None
 
@@ -422,7 +425,81 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
+### Day 59: 27 Sep. Wednesday 
 
+**Today's Progress**: **DAY OFF**
+
+- **DAY OFF**
+
+**Thoughts:** **DAY OFF**
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 60: 28 Sep. Thursday
+
+**Today's Progress**: 
+
+- Fix one missing test (`with passed in props`) for the `<CustomTextInput />` component. [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend).
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Recursion.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 61: 29 Sep. Friday 
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 62: 30 Sep. Saturday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 64: 02 Oct. Sunday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 65: 03 Oct. Monday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
 
 
 Made with ❤️ &copy; 2017 D/S 💯
