@@ -444,6 +444,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Fix one missing test (`with passed in props`) for the `<CustomTextInput />` component. [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend).
 
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - Recursion.
 
@@ -457,9 +459,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+  - Fixed bug I was having in the `<Spinner />` component and the props.
 
-**Thoughts:** ...
+- Started working on creating type definitions for `@storybook__addon/-storyshoots`
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
