@@ -474,9 +474,13 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
+  - Started creating an `<AlertHOC />` component to experiement with HOCs in RN
 
-**Thoughts:** ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Recursion: Did `walk_the_DOM` exercise.
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
