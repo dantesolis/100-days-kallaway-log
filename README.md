@@ -8,7 +8,8 @@
   - 1 day off 27 August
   - 1 week off (7 days) 02 - 08 Sep
   - 1 day off 27 Sept 
-  Total: 9 days
+  - 2 weeks off (13 days) 01 - 13 Oct 
+  Total: 22 days
 
 **Inspiration** Wanted to do another 90 Days. You can see my previous log [here](previous_logs/README_OLD.md).
 
@@ -486,7 +487,19 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 64: 02 Oct. Sunday
+### Day 63 - Day 76: 01 Oct. Sunday - 13 Oct. Friday **13 DAYS**
+
+**Today's Progress**:  **DAYS OFF DUE TO SICKNESS**
+
+- **DAYS OFF DUE TO SICKNESS**
+
+**Thoughts:** **DAYS OFF DUE TO SICKNESS**
+
+**Link to work:** **DAYS OFF DUE TO SICKNESS**
+
+<hr />
+
+### Day 77: 14 Oct. Saturday
 
 **Today's Progress**: 
 
@@ -498,7 +511,59 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 65: 03 Oct. Monday
+
+### Day 78: 15 Oct. Sunday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 79: 16 Oct. Monday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 80: 17 Oct. Tuesday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 81: 18 Oct. Wednesday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 82: 19 Oct. Thursday
 
 **Today's Progress**: 
 
