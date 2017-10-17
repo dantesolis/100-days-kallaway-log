@@ -503,22 +503,22 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Worked on my the RN personal app [Repo](https://github.com/dantesolis/seeker) **set-to-pvt**. (personal project with a friend).
+  - Installed and setup `@storybook` for the app. Migrated one of the components `Button` as a tryout.
 
-**Thoughts:** ...
+**Thoughts:** 
 
 **Link to work:** *See Today's progress*
 
 <hr />
 
-
 ### Day 78: 15 Oct. Sunday
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -529,9 +529,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
 
-**Thoughts:** ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Reviewing the `function invocation pattern`.
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -542,9 +545,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Finished  Section 10 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course.
 
-**Thoughts:** ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Reviewing the `constructor invocation pattern`.
+
+**Thoughts:** Need to create a blog post about it.
 
 **Link to work:** *See Today's progress*
 
