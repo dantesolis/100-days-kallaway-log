@@ -561,9 +561,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Started Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
 
-**Thoughts:** ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Reviewing the `constructor invocation pattern`.
+  
+**Thoughts:** Trying to solve a two different versions of the code, the one on the book and the class based creation with the constructor method. Snippet to follow.
 
 **Link to work:** *See Today's progress*
 
