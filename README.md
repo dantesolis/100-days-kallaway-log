@@ -591,11 +591,15 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 ### Day 83: 20 Oct. Friday
 
-**Today's Progress**: 
+**Today's Progress**:
 
-- ...
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [ ] Actually self created a jsfiddle with simple implementation of an action, reducer and state to better understand it. Watched the video with his implementation after I solved it.
 
-**Thoughts:** ...
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - [x] Updated the jsfiddle of `constructor invocation pattern` and `function invocation pattern`. [jsfiddle](https://jsfiddle.net/intercoder/pmrqL0yt/17/)
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
