@@ -576,6 +576,47 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - Create a jsfiddle of `constructor invocation pattern` and `function invocation pattern`. [jsfiddle](https://jsfiddle.net/intercoder/pmrqL0yt/14/)
+
+
+**Thoughts:** Trying to get the "difference" between extending methods by prototyping (function invocation) and "extending/declaring" them in the constructor method of a class as static methods. 
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 83: 20 Oct. Friday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 83: 21 Oct. Saturday
+
+**Today's Progress**: 
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 83: 21 Oct. Saturday
+
+**Today's Progress**: 
+
 - ...
 
 **Thoughts:** ...
