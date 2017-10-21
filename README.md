@@ -609,9 +609,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- ...
+- Worked on React Native app [seeker](https://github.com/dantesolis/seeker). Completed the `<Button />` component, missing test, but added propTypes and two test cases.
+- [x] Fixed the jsfiddle of `constructor invocation pattern` and `function invocation pattern`. [jsfiddle](https://jsfiddle.net/intercoder/pmrqL0yt/17/). Now everything working as it suppose to.
 
-**Thoughts:** ...
+**Thoughts:** Learnt a bit more about difference between `static` methods and just "normal" methods in `class`es (JS).
 
 **Link to work:** *See Today's progress*
 
