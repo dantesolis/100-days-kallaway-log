@@ -594,7 +594,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 **Today's Progress**:
 
 - Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
-  - [ ] Actually self created a jsfiddle with simple implementation of an action, reducer and state to better understand it. Watched the video with his implementation after I solved it.
+  - [x] Actually self created a jsfiddle with simple implementation of an action, reducer and state to better understand it. Watched the video with his implementation after I solved it. **FIXED ON DAY 83**
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - [x] Updated the jsfiddle of `constructor invocation pattern` and `function invocation pattern`. [jsfiddle](https://jsfiddle.net/intercoder/pmrqL0yt/17/)
@@ -610,7 +610,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 **Today's Progress**: 
 
 - Worked on React Native app [seeker](https://github.com/dantesolis/seeker). Completed the `<Button />` component, missing test, but added propTypes and two test cases.
-- [x] Fixed the jsfiddle of `constructor invocation pattern` and `function invocation pattern`. [jsfiddle](https://jsfiddle.net/intercoder/pmrqL0yt/17/). Now everything working as it suppose to.
+- [x] Fixed the jsfiddle of `constructor invocation pattern` and `function invocation pattern`. [jsfiddle](https://jsfiddle.net/intercoder/pmrqL0yt/26/). Now everything working as it suppose to.
 
 **Thoughts:** Learnt a bit more about difference between `static` methods and just "normal" methods in `class`es (JS).
 
@@ -618,11 +618,16 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 83: 21 Oct. Saturday
+### Day 83: 21 Oct. Sunday
 
 **Today's Progress**: 
 
-- ...
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [ ] Trying to implement a simple redux like jsfiddle with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/28/).
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - [ ] Apply invocation pattern.
+
 
 **Thoughts:** ...
 
