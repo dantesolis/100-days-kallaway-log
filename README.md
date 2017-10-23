@@ -618,7 +618,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-### Day 83: 21 Oct. Sunday
+### Day 83: 22 Oct. Sunday
 
 **Today's Progress**: 
 
@@ -628,6 +628,18 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - [ ] Apply invocation pattern.
 
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 84: 23 Oct. Monday
+
+**Today's Progress**: 
+
+- ...
 
 **Thoughts:** ...
 
