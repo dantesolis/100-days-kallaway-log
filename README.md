@@ -643,11 +643,46 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
   - [ ] Trying to implement a simple redux like jsfiddle with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/28/).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
-  - [ ] Apply invocation pattern. Need to create snippet.
+  - [x] Apply invocation pattern. Need to create snippet.
 
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 85: 24 Oct. Tuesday
+
+**Today's Progress**: 
+
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [ ] Continue working on trying to implement a simple redux system  with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/28/).
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - [x] Argument invocation pattern. Need to create snippet.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+
+### Day : 
+
+
+**Today's Progress**:
+
+- ...
+
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
+
 
 <hr />
 
