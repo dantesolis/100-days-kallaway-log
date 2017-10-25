@@ -669,8 +669,28 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 <hr />
 
 
+### Day 86: 25 Oct. Wednesday
 
-### Day : 
+
+**Today's Progress**:
+
+- Continue working on trying to implement a simple redux system  with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/57/).
+  - [x] Got the simple reducer to take an action and update my state, depending on the action type. Now to tackle the `store` and the `global state`.
+
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - Adds `redux` and `react-redux` on the app. Created a store and a simple reducer. 
+
+- ...
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 87: 26 Oct. Thursday
 
 
 **Today's Progress**:
@@ -683,6 +703,101 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Link to work:** *See Today's progress*
 
+<hr />
+
+
+### Day 88: 27 Oct. Friday
+
+
+**Today's Progress**:
+
+- ...
+
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 89: 28 Oct. Saturday
+
+
+**Today's Progress**:
+
+- ...
+
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 90: 29 Oct. Sunday
+
+
+**Today's Progress**:
+
+- ...
+
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 91: 30 Oct. Monday
+
+
+**Today's Progress**:
+
+- ...
+
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 92: 31 Oct. Tuesday
+
+
+**Today's Progress**:
+
+- ...
+
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 93: 01. Wednesday
+
+
+**Today's Progress**:
+
+- ...
+
+
+**Thoughts:** None
+
+
+**Link to work:** *See Today's progress*
 
 <hr />
 
