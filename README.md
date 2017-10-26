@@ -695,7 +695,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Add common component directory fro reusable components.
+
+- Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
+  - [x] Argument invocation pattern. Created a snippet and a [jsfiddle](https://jsfiddle.net/intercoder/wujgL19L/28/).
+  - [x] Read the Return invocation pattern.
 
 
 **Thoughts:** None
