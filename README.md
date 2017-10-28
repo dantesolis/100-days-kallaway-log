@@ -718,11 +718,9 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Finished Section 11 and started working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
   - [x] Reducers.
 
-- Completed the [jennys-secret-message](https://www.codewars.com/kata/jennys-secret-message/train/javascript) kata on codewars in 
+- Completed the [jennys-secret-mess age](https://www.codewars.com/kata/jennys-secret-message/train/javascript) kata on codewars in 
  - [x] **JS**.
  - [ ] Started the one in **TS** [kata](https://www.codewars.com/kata/jennys-secret-message/train/typescript).
-
-- ...
 
 **Thoughts:** None
 
@@ -734,14 +732,14 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 ### Day 89: 28 Oct. Saturday
 
-
 **Today's Progress**:
 
-- ...
+- Continued working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+
+- [x] Finished the argument invocation pattern. Used reduce method. Created a snippet and a [jsfiddle](https://jsfiddle.net/intercoder/wujgL19L/28/).
 
 
 **Thoughts:** None
-
 
 **Link to work:** *See Today's progress*
 
