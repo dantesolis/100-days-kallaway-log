@@ -729,7 +729,6 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
-
 ### Day 89: 28 Oct. Saturday
 
 **Today's Progress**:
@@ -751,16 +750,13 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
-
+- Created a card component on React Native and add it as a story inside storybook.
 
 **Thoughts:** None
-
 
 **Link to work:** *See Today's progress*
 
 <hr />
-
 
 ### Day 91: 30 Oct. Monday
 
