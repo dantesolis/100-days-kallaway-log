@@ -750,7 +750,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Created a card component on React Native and add it as a story inside storybook.
+- Created a card component for my React Native app - seeker - (pvt repo on gh) and added it as a story inside storybook.
 
 **Thoughts:** None
 
@@ -763,8 +763,9 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Continued working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
 
+- ...
 
 **Thoughts:** None
 
