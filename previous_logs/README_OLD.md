@@ -6,7 +6,9 @@
 
 **Xtra Days to add** 14
 
-**Days OFF: 14
+**Days OFF:** 14
+
+**Total of Days completed:** 156
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
@@ -1756,7 +1758,7 @@ Trying to find the time between work and personal stuff to log continue on the l
 <hr />
 
 
-### Day 154: July 30. Sunday
+### Day 155: July 30. Sunday
 
 **Today's Progress**:
 
@@ -1771,7 +1773,7 @@ Trying to find the time between work and personal stuff to log continue on the l
 <hr />
 
 
-### Day 154: July 31. Monday
+### Day 156: July 31. Monday
 
 **Today's Progress**:
 
