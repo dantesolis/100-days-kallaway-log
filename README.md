@@ -818,6 +818,11 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+
+- Finished Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
+  - [x] youtube animation icon. [Codepen](https://codepen.io/intercoder/pen/f7a26e58b4a667db494bebccb35ba37c?editors=1100)
+
 - ...
 
 **Thoughts:** None
