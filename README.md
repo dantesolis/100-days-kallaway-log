@@ -823,7 +823,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Finished Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
   - [x] youtube animation icon. [Codepen](https://codepen.io/intercoder/pen/f7a26e58b4a667db494bebccb35ba37c?editors=1100)
 
-- ...
+- Continued Chapter 4 of **JS the Good parts: Functions** Did:
+  - [x] Exceptions and Augmenting types. Need to create snippet.
 
 **Thoughts:** None
 
