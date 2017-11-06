@@ -5,11 +5,12 @@
 **End Date** ...
 
 **Days Xtra to Add:**
-  - 1 day off 27 August
-  - 1 week off (7 days) 02 - 08 Sep
-  - 1 day off 27 Sept 
-  - 2 weeks off (13 days) 01 - 13 Oct 
-  Total: 22 days
+  - 1 day off 27 August.
+  - 1 week off (7 days) 02 - 08 Sep.
+  - 1 day off 27 Sept. 
+  - 2 weeks off (13 days) 01 - 13 Oct.
+  - 1 day off 05 Nov.
+  Total: 23 days
 
 **Inspiration** Wanted to do another 90 Days. You can see my previous log [here](previous_logs/README_OLD.md).
 
@@ -840,8 +841,6 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
   - [x] Add a `ListItem` component to the project.
 
-- ...
-
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
@@ -853,7 +852,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Worked on [seeker-app](https://github.com/dantesolis/seeker) personal project with a friend. **set-to-pvt**
+  - Finished `<Card />`, added `defaultProps` and `staticProps`; missing tests.  Started  `<TextInput />` component as a story in storybook.
 
 **Thoughts:** None
 
@@ -864,11 +864,11 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 ### Day 97: 05 Nov. Sunday
 
-**Today's Progress**:
+**Today's Progress**: **DAY OFF**
 
-- ...
+- **DAY OFF**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF**
 
 **Link to work:** *See Today's progress*
 
@@ -879,7 +879,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Add a `ListItem` component to the project.
 
 **Thoughts:** None
 
