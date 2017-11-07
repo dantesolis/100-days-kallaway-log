@@ -891,4 +891,86 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
+### Day 99: 07 Nov. Tuesday
+
+**Today's Progress**:
+
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Add a selectedLibrary reducer to the project and hooks it up to ListItem component.
+
+- Started Section 7 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
+  - [x] Instagram gradient example.Codepen with [code](https://codepen.io/intercoder/pen/75e4cd524a91f2b30b23ee83c3bf959d?editors=1100). Set to private right now.
+
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 100: 08 Nov. Wednesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+
+### Day 101: 09 Nov. Thursday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 102: 10 Nov. Friday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 103: 11 Nov. Saturday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 104: 12 Nov. Sunuday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 Made with ❤️ &copy; 2017 D/S 💯
