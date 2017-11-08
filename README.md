@@ -912,6 +912,13 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
+- Completed the [You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/solutions/javascript) kata.
+
+- Continued working on  Section 7 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. [code](https://codepen.io/intercoder/pen/ooYZYv/)
+
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Add an action creator to the project for selecting library.
+
 - ...
 
 **Thoughts:** None
