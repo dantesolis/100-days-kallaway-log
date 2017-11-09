@@ -919,20 +919,21 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
   - [x] Add an action creator to the project for selecting library.
 
-- ...
 
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
 <hr />
-
 
 
 ### Day 101: 09 Nov. Thursday
 
 **Today's Progress**:
 
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Connect the actionCreator to the ListItem component.
+
 - ...
 
 **Thoughts:** None
@@ -940,7 +941,6 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 **Link to work:** *See Today's progress*
 
 <hr />
-
 
 ### Day 102: 10 Nov. Friday
 
