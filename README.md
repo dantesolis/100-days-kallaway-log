@@ -934,8 +934,6 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
   - [x] Connect the actionCreator to the ListItem component.
 
-- ...
-
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
@@ -945,6 +943,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 ### Day 102: 10 Nov. Friday
 
 **Today's Progress**:
+
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Add a the TouchableWithouthFeedback native component to the project.
+
+- Finished [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. 
+  - [x] Last lesson was about advanced svg techniques. Here is the [codepen](https://codepen.io/intercoder/pen/ooZXjX/)
 
 - ...
 
