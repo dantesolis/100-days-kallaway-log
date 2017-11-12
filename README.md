@@ -975,9 +975,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Worked on the React Native personal project. Cleaned up some tests. And add a `<Switch />` component as a story.
+- Worked on the React Native personal project. Cleaned up some tests. And added a `<Switch />` component as a story. Missing tests. 
 
 - Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Connected the `selectLibraryReducer` to the `< ListItem />`component.
 
 **Thoughts:** None
 
