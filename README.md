@@ -964,8 +964,6 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
 
-- ...
-
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
@@ -973,11 +971,13 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 <hr />
 
 
-### Day 104: 12 Nov. Sunuday
+### Day 104: 12 Nov. Sunday
 
 **Today's Progress**:
 
-- ...
+- Worked on the React Native personal project. Cleaned up some tests. And add a `<Switch />` component as a story.
+
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
 
 **Thoughts:** None
 
