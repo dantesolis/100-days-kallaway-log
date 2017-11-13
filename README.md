@@ -150,7 +150,7 @@ Repo [albums](https://github.com/dantesolis/albums).
 
 - Read 1 page each day of **JS the Good parts**. Currently on Chapter 3 Objects. You can see jsfiddle of my rough notes [here](https://jsfiddle.net/intercoder/nzyo13fo/35/)
 
-- ... **(Continuation)** cause I couldn't go to bed.
+- **(Continuation)** cause I couldn't go to bed.
   - Worked on section 2 of [Build-And-Publish-npm-Modules](https://www.udemy.com/node-package-manager-course-build-and-publish-npm-modules/)
 
 **Thoughts:** Trying to get back on track. I thought I have missed a lot more days, but 1 week is catchable. Hate missing days though, feel like I have forgotten everything I did.
@@ -989,7 +989,13 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+  - [x] Add ownProps to mapStateToProps function on ListItem component.
+
+- Fixed logic on test for `<Card />` for initial non passing tests.
+
+- Read 1 page each day of **JS the Good parts**. Currently on Chapter 3 Objects. You can see jsfiddle of my rough notes [here]()
+  - Doing the "Exceptions" exercises. Here is [jsfiddle](https://jsfiddle.net/intercoder/7ryrjums/2/) with the code.
 
 **Thoughts:** None
 
