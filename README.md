@@ -1010,7 +1010,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Finished Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
   - [x] Add `LayoutAnimation` native library to `<ListItem />` component.
 
-- ...
+- Create `<CardSection />` component on personal React Native app. Repo set to pvt. Missing tests.
 
 **Thoughts:** None
 
