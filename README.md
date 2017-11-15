@@ -562,7 +562,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Started Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Started Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - Reviewing the `constructor invocation pattern`.
@@ -577,7 +577,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - Create a jsfiddle of `constructor invocation pattern` and `function invocation pattern`. [jsfiddle](https://jsfiddle.net/intercoder/pmrqL0yt/14/)
@@ -594,7 +594,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Actually self created a jsfiddle with simple implementation of an action, reducer and state to better understand it. Watched the video with his implementation after I solved it. **FIXED ON DAY 83**
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
@@ -623,7 +623,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [ ] Trying to implement a simple redux like jsfiddle with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/28/).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
@@ -640,7 +640,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [ ] Trying to implement a simple redux like jsfiddle with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/28/).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
@@ -657,7 +657,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**: 
 
-- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [ ] Continue working on trying to implement a simple redux system  with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/28/).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
@@ -678,7 +678,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Continue working on trying to implement a simple redux system  with a `store`, `reducer`, `action`. Here is the [jsfiddle](https://jsfiddle.net/intercoder/xc608ou3/57/).
   - [x] Got the simple reducer to take an action and update my state, depending on the action type. Now to tackle the `store` and the `global state`.
 
-- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - Adds `redux` and `react-redux` on the app. Created a store and a simple reducer. 
 
 
@@ -695,7 +695,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 11 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Add common component directory fro reusable components.
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
@@ -716,7 +716,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Finished Section 11 and started working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Finished Section 11 and started working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Reducers.
 
 - Completed the [jennys-secret-mess age](https://www.codewars.com/kata/jennys-secret-message/train/javascript) kata on codewars in 
@@ -734,7 +734,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 - [x] Finished the argument invocation pattern. Used reduce method. Created a snippet and a [jsfiddle](https://jsfiddle.net/intercoder/wujgL19L/28/).
 
@@ -764,7 +764,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - [x] Exceptions.
@@ -782,7 +782,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Finished Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Finished Section 12 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 - Continued working on Chapter 4 of **JS the Good parts: Functions** Did:
   - [x] Return. Created a snippet of what I have learnt in chrome.
@@ -800,7 +800,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Started Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Started Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 - Continued working on Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
   - [x] youtube animation icon. [Codepen](https://codepen.io/intercoder/pen/f7a26e58b4a667db494bebccb35ba37c)
@@ -819,7 +819,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 - Finished Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
   - [x] youtube animation icon. [Codepen](https://codepen.io/intercoder/pen/f7a26e58b4a667db494bebccb35ba37c?editors=1100)
@@ -838,7 +838,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Add a `ListItem` component to the project.
 
 **Thoughts:** None
@@ -879,7 +879,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Display and styles the `ListItem` component.
 
 - Finished Section 6 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
@@ -895,7 +895,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Add a selectedLibrary reducer to the project and hooks it up to ListItem component.
 
 - Started Section 7 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course.
@@ -916,7 +916,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Continued working on  Section 7 of [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. [code](https://codepen.io/intercoder/pen/ooYZYv/)
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Add an action creator to the project for selecting library.
 
 
@@ -931,7 +931,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Connect the actionCreator to the ListItem component.
 
 **Thoughts:** None
@@ -944,7 +944,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Add a the TouchableWithouthFeedback native component to the project.
 
 - Finished [learn-svg-animation](https://www.udemy.com/learn-svg-animation) Udemy Course. 
@@ -962,7 +962,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
 
 **Thoughts:** None
 
@@ -976,7 +976,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Worked on the React Native personal project. Cleaned up some tests. And added a `<Switch />` component as a story. Missing tests. 
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Connected the `selectLibraryReducer` to the `< ListItem />`component.
 
 **Thoughts:** None
@@ -989,7 +989,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Continued working on Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Add ownProps to mapStateToProps function on ListItem component.
 
 - Fixed logic on test for `<Card />` for initial non passing tests.
@@ -1007,7 +1007,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Finished Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [tech_stack](https://github.com/dantesolis/tech_stack).
+- Finished Section 13 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-tech_stack](https://github.com/dantesolis/react-native-tech_stack).
   - [x] Add `LayoutAnimation` native library to `<ListItem />` component.
 
 - Create `<CardSection />` component on personal React Native app. Repo set to pvt. Missing tests.
@@ -1021,6 +1021,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 ### Day 107: 15 Nov. Wednesday
 
 **Today's Progress**:
+
+- Finished 14 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-manager](https://github.com/dantesolis/react-native-manager).
 
 - ...
 
