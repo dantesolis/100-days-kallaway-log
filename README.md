@@ -1024,7 +1024,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Finished 14 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-manager](https://github.com/dantesolis/react-native-manager).
 
-- ...
+- Continued working on JSGP book **Exceptions** part here is a [jsfiddle](https://jsfiddle.net/intercoder/7ryrjums/4/)
+
+- Contributed to and OpenSource project [WeDOnateMobileApp](https://github.com/Kartikkh/WeDonateMobileApp).
+
+- Contributed to OpenSource project [codebuddies](https://github.com/codebuddiesdotorg/codebuddies)
+  - [ ] [issue-594](https://github.com/codebuddiesdotorg/codebuddies/issues/594).
 
 **Thoughts:** None
 
