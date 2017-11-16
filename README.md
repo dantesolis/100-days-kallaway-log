@@ -1045,6 +1045,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 - Finished 14 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-manager](https://github.com/dantesolis/react-native-manager).
   - [x] Add `flow-bin@0.56.0`to the project. Sets it up.
 
+- Started expeerimenting with framer. Doing the [zero-inbox-animation](http://www.prototypingwithframer.com/zero-inbox-animation/) example.
+
+- ...
+
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
