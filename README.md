@@ -1059,6 +1059,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
+- Continued working on 14 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course. Repo [react-native-manager](https://github.com/dantesolis/react-native-manager).
+
+- Continued working with framer. Doing the [zero-inbox-animation](http://www.prototypingwithframer.com/zero-inbox-animation/) example. But here is my shareable [link](https://framer.cloud/pciKA).
+
 - ...
 
 **Thoughts:** None
