@@ -1063,7 +1063,6 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Continued working with framer. Doing the [zero-inbox-animation](http://www.prototypingwithframer.com/zero-inbox-animation/) example. But here is my shareable [link](https://framer.cloud/pciKA).
 
-- ...
 
 **Thoughts:** None
 
@@ -1075,7 +1074,10 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Worked on the React Native app personal app. Created and added stories for the following components:
+  - [x] CardSection - fixed tests && added it as a story in storybook
+  - [x] Switch - fixed tests
+  - [x] Wrote helper function for `testMissing` using `expect.extend({})`
 
 **Thoughts:** None
 
