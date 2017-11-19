@@ -1089,7 +1089,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Add flow to the [react-native-manager](https://github.com/dantesolis/react-native-manager) `<Input />` component. Added it also to the `< CardSection />` but buggy, need to fix `children` type.
 
 **Thoughts:** None
 
