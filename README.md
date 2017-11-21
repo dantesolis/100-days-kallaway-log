@@ -1089,7 +1089,35 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- Add flow to the [react-native-manager](https://github.com/dantesolis/react-native-manager) `<Input />` component. Added it also to the `< CardSection />` but buggy, need to fix `children` type.
+- Continued working on 14 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add flow to the [react-native-manager](https://github.com/dantesolis/react-native-manager) `<Input />` component. Added it also to the `< CardSection />` but buggy, need to fix `children` type.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 112: 20 Nov. Monday
+
+**Today's Progress**:
+
+- Continued working on 14 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Start adding an action creator for the `<LoginForm />` component. Start adding flow to `<CardSection />` and `<Button />` components.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 113: 21 Nov. Tuesday
+
+**Today's Progress**:
+
+- ...
 
 **Thoughts:** None
 
