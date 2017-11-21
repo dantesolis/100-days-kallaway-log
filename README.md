@@ -1117,7 +1117,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Continued working on 14 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x]'Connect the first action creator and first part of reducer to the `<LoginForm />` component
 
 **Thoughts:** None
 
