@@ -1158,9 +1158,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - [x] Add `flow` to the following components `CardSection`, `Button` and `Input` on the react native app. Now asking for a code review on [discord.app](https://discordapp.com/).
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Finish hooking up the `passwordChange` actionCreator to the `<LoginForm />` container.
 
-**Thoughts:** None
+- Finished the 'zero-inbox animation (sun and cloud)' prototype on framer. Here is the acutal [link](https://framer.cloud/pciKA). Link for the [tutorial](http://www.prototypingwithframer.com/zero-inbox-animation/)
+
+**Thoughts:** Loving framer more and more.
 
 **Link to work:** *See Today's progress*
 
