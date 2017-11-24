@@ -1156,6 +1156,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
+- [x] Add `flow` to the following components `CardSection`, `Button` and `Input` on the react native app. Now asking for a code review on [discord.app](https://discordapp.com/).
+
 - ...
 
 **Thoughts:** None
