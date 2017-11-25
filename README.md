@@ -1173,7 +1173,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Worked on the personal RN app. Repo set to pvt.
+  - [x] Added a `<SecureButton />` component. Added basic tests and the first part of the `PropTypes` implementation.
 
 **Thoughts:** None
 
