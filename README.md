@@ -1199,7 +1199,8 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Added flow to my `reducers` and `actionCreators`. Getting more and more acquianted with flow. **THIS IS NOT PART OF THE UDEMY COURSE**, just thought that it would be nice to train on a new skill while completing the course.
 
 **Thoughts:** None
 
