@@ -1212,7 +1212,12 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 **Today's Progress**:
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add redux-thunk to the project. Fix some issues with the `AuthReducer` and the `State` type anotation.
+
+- Install and begining setup for using [spacemacs](https://github.com/syl20bnr/spacemacs#macos) on mac. Trying a new IDE. 😁.
+  - [x] Prerequisites section and can load the IDE from terminal.
+  - [ ] Ask a question [stackoverflow]() pertaining a big I'm having.
 
 **Thoughts:** None
 
