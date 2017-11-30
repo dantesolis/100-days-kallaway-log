@@ -1233,8 +1233,7 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
   - [x] Trying to add flow to all my actionCreators, and some components.
     - [x] `loginUser` action creator need code review
     - [x] `LoginForm` component need code review
-
-
+  
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
