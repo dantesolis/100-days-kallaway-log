@@ -1248,7 +1248,6 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 - Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
 
-- ...
 
 **Thoughts:** None
 
