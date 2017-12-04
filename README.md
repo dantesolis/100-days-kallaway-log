@@ -2,7 +2,9 @@
 
 **Start Date** 01 Aug 2017
 
-**End Date** ...
+**End Date** 03 Dec. Sunday
+
+**Total Days Done** 102
 
 **Days Xtra to Add:**
   - 1 day off 27 August.
