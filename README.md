@@ -4,7 +4,7 @@
 
 **End Date** 03 Dec. Sunday
 
-**Total Days Done** 102
+**Total Days Done** 103
 
 **Days Xtra to Add:**
   - 1 day off 27 August.
@@ -1298,5 +1298,16 @@ Repo [react-native-auth](https://github.com/dantesolis/react-native-auth).
 
 <hr />
 
+### Day 126: 04 Dec. Monday
+
+**Today's Progress**:
+
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
 
 Made with ❤️ &copy; 2017 D/S 💯

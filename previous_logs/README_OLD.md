@@ -8,7 +8,7 @@
 
 **Days OFF:** 14
 
-**Total of Days completed:** 156
+**Total of Days completed:** 156 - 14 = **142 Days total**
 
 **Inspiration** Many things, but basically I have a myriad of projects/ideas/things I would - and I'm currently trying - to learn and this became a nice little way to not only keep track of everything I'm doing but also to be accountable for it.
 
