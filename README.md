@@ -23,7 +23,9 @@ console.log(addCorrectCount(1));
 **Total Days Done**  ...
 
 **Days Xtra to Add:**
+
   - ...
+
   Total: ..
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
@@ -39,7 +41,17 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x]Add the react-native-router-flux@3.35.0 library to the project.
+
+- Watched one video of [introduction to javascript](https://frontendmasters.com/courses/javascript-basics/kyle-s-work) in FrontEnd Master.
+ - [x] Follow course with the book [You Dont Know Js](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+
+- Watched one video of [Code Transformation and Linting with ATSs](https://frontendmasters.com/courses/linting-asts/introduction/) in FrontEnd Master.
+ -  [x] setup project and installed dependencies.
+
+
+
 
 **Thoughts:** None
 
