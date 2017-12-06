@@ -51,8 +51,6 @@ You can see my previous log(s):
  -  [x] setup project and installed dependencies.
 
 
-
-
 **Thoughts:** None
 
 **Link to work:** *See Today's progress*
@@ -64,7 +62,10 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Finally managed to fix a bug in a project I was having. A portfolio project using `nextjs`.
+  - [x] installed `semantic-ui-react` and added it to the project. Pushed my changes with an example of a card.
+
+- Worked on implmenting the design for [Issue-14](https://github.com/Kartikkh/WeDonateMobileApp/issues/14) on [WeDonateMobileApp](https://github.com/Kartikkh/WeDonateMobileApp/commit/8a0a109e2c3e20da982eeccb838bfa51c5dd5277)
 
 **Thoughts:** None
 

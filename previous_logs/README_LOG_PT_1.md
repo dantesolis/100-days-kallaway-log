@@ -1777,7 +1777,6 @@ Trying to find the time between work and personal stuff to log continue on the l
 
 **Today's Progress**:
 
-
 - Continued working on seeker React-Native app [repo pvt:](https://github/dantesolis/seeker). Fixed some bugs and created the signup screen. Added  `<TextInput />` components to the `<SignUp />` component
 
 **Thoughts:** *This log will be closed today. Will be opening a new one*
