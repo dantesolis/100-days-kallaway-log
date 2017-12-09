@@ -90,7 +90,7 @@ You can see my previous log(s):
 **Today's Progress**: 
 
 - Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
-  - [ ] ...
+  - [x] Implement a `Router.js`  with `react-native-router-flux`.
 
 **Thoughts:** None
 
