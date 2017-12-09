@@ -102,7 +102,13 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Worked on the creating a prototype with framer design for a friend's website.
+
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add an `<EmployeeList />` component to the project and add it to the `Routes.js`
+  - [ ] Trying to fix a bug with my app not bundling.
+
+
 
 **Thoughts:** None
 
