@@ -106,9 +106,7 @@ You can see my previous log(s):
 
 - Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
   - [x] Add an `<EmployeeList />` component to the project and add it to the `Routes.js`
-  - [ ] Trying to fix a bug with my app not bundling.
-
-
+  - [x] Trying to fix a bug with my app not bundling. Fixed the bug. You can see the post [here](https://github.com/facebook/react-native/issues/4968)
 
 **Thoughts:** None
 
@@ -120,7 +118,8 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+
 
 **Thoughts:** None
 
