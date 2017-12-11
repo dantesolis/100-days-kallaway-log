@@ -119,7 +119,7 @@ You can see my previous log(s):
 **Today's Progress**: 
 
 - Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
-
+  - [x] Fix error with flow by addg new version of flow. Add the Actions  helper to the actions/index.js
 
 **Thoughts:** None
 
@@ -131,7 +131,8 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add two more scenes to the `Routes.js` "component".
 
 **Thoughts:** None
 
