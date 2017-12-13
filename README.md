@@ -142,9 +142,27 @@ You can see my previous log(s):
 
 ### Day 8: 12 Dec. Tuesday
 
-**Today's Progress**: 
+**Today's Progress**:
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Minor update on readme. Add more props to the main scene and fix a bug on app.js
+
+- Started working on an `NotFound` svg for a `react-component-pakage` in affinity.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 9: 13 Dec. Wednesday
+
+**Today's Progress**:
+
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add an `<EmployeeCreate />` component that will handle the form for adding new employees.
+  - [ ] Started adding `@flow` on `<EmployeeCreate />` component.
+
 
 **Thoughts:** None
 
