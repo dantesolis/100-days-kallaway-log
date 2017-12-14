@@ -171,4 +171,54 @@ You can see my previous log(s):
 
 <hr />
 
+### Day 10: 14 Dec. Thursday
+
+**Today's Progress**:
+
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Start adding form components to the `<EmployeeCreate />` component
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 11: 15 Dec. Friday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 12: 16 Dec. Saturday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 13: 17 Dec. Sunday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
 Made with ❤️ &copy; 2017 D/S 💯
