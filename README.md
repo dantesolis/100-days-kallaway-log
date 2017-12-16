@@ -25,8 +25,9 @@ console.log(addCorrectCount(1));
 **Days Xtra to Add:**
 
   - 1 day off 07 Dec. Thursday
+  - 1 day off 15 Dec. Friday
 
-  Total: 1
+  Total: 2
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -188,11 +189,11 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF**
 
-**Link to work:** *See Today's progress*
+**Link to work:** **DAY OFF**
 
 <hr />
 
