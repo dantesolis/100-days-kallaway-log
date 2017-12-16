@@ -201,7 +201,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Worked on the react native pesonal project. *Repo is set to pvt*.
+  - [x] Created and `<Alert />` component and implemented as a story.
+  - [x] Continued working on the  `<SecureButton />` component and implementing it as a story.
 
 **Thoughts:** None
 
