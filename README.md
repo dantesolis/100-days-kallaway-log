@@ -218,7 +218,10 @@ You can see my previous log(s):
 - Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
   - [x] Add a new action creator for updating employees and an a reducer. Add flow to both files.
 
-- ...
+- Finished the `Exceptions` section on JSGP (Javascript The Good parts) and started `Augmenting` section.
+  - [x] Here are the jsfiddle:
+    - [x] [Exceptions](https://jsfiddle.net/intercoder/7ryrjums/27/)
+    - [x] [Augmenting](https://jsfiddle.net/intercoder/qsdr05u5/27/)
 
 **Thoughts:** None
 
