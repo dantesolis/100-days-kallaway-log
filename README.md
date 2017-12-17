@@ -215,6 +215,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add a new action creator for updating employees and an a reducer. Add flow to both files.
+
 - ...
 
 **Thoughts:** None
@@ -223,5 +226,102 @@ You can see my previous log(s):
 
 <hr />
 
+### Day 14: 18 Dec. Monday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 15: 19 Dec. Tuesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 16: 20 Dec. Wednesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 17: 21 Dec. Thursday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 18: 22 Dec. Friday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 19: 23 Dec. Saturday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 20: 24 Dec. Sunday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 21: 25 Dec. Sunday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
 
 Made with ❤️ &copy; 2017 D/S 💯
