@@ -233,7 +233,8 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add an `AuthActions.js` actions file and refactor all actions. Continue working on the `EmployeeUpdate` action and its reducer.
 
 **Thoughts:** None
 
