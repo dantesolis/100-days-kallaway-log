@@ -147,7 +147,6 @@ You can see my previous log(s):
 
 - Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
   - [x] Minor update on readme. Add more props to the main scene and fix a bug on app.js
-<<<<<<< HEAD
 
 - Started working on an `NotFound` svg for a `react-component-pakage` in affinity.
 
@@ -235,6 +234,11 @@ You can see my previous log(s):
 
 - Continue working on Section 16 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
   - [x] Add an `AuthActions.js` actions file and refactor all actions. Continue working on the `EmployeeUpdate` action and its reducer.
+
+- Fixed the errors I was having on the `Exceptions` jsfiddle snippet and the `Augmenting` jsfiddle snippet.
+  - [x] Here are the jsfiddle:
+    - [x] [Exceptions](https://jsfiddle.net/intercoder/7ryrjums/31/)
+    - [x] [Augmenting](https://jsfiddle.net/intercoder/qsdr05u5/31/)
 
 **Thoughts:** None
 
