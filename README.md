@@ -277,9 +277,11 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continue working on Section 17 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add `<Text />` to the `<EmployeeCreate />` component and the refactor to a separrate component under commons.
+    - [x] Added `flow` to that component.
 
-**Thoughts:** None
+**Thoughts:** Hadn't realized I had already finished section 16 (like 7 videos ago) and was working on section 17 🙃.
 
 **Link to work:** *See Today's progress*
 
