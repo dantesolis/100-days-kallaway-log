@@ -26,8 +26,9 @@ console.log(addCorrectCount(1));
 
   - 1 day off 07 Dec. Thursday
   - 1 day off 15 Dec. Friday
-
-  Total: 2
+  - 1 day *off* 22 Dec. Friday -  forgot about it, please read Day entry for details
+  ---------------------------
+  Total: 3
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -291,9 +292,11 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Worked on two packages. These are packages that I'm creating to be mainly used for work, **but** I'm planning to push them on `npm` once I do it and then, and although they'll be *used* for work, they are also being done *outside* of work. I'm using `rollup`, `flow`, `react`
+  - [x] `<NotFound Page />` (link-to-follow)
+  - [x] `<ErrorBounday />` (link-to-follow)
 
-**Thoughts:** None
+**Thoughts:** Actually forgot about it. Not good. Even though I worked on something else. Not counting this day.
 
 **Link to work:** *See Today's progress*
 
@@ -303,9 +306,17 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Finished Section 17 and started  Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add a `db` on firebase.
 
-**Thoughts:** None
+- Worked on a react package `<NotFound />`. Package that will mainly be used for work, **but**  planning to publish it on `npm` as well. I'm using `rollup`, `flow`, `react`
+  - [x] Trying to add `rollup-plugin-eslint`
+
+- Created the first part of the `schema.graphql` for the ReactNative personal app
+
+- Watch one one video of [Javascript: From Fundamentaks to Functional JS](https://frontendmasters) at FrontEnd Masters.
+
+**Thoughts:** On vacation 🏝 from work for two weeks baby... yaaayy!!! coding here I come. 
 
 **Link to work:** *See Today's progress*
 
