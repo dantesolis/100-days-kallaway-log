@@ -314,7 +314,9 @@ You can see my previous log(s):
 
 - Created the first part of the `schema.graphql` for the ReactNative personal app
 
-- Watch one one video of [Javascript: From Fundamentaks to Functional JS](https://frontendmasters) at FrontEnd Masters.
+- Watch 2 videos of [Javascript: From Fundamentaks to Functional JS](https://frontendmasters) at FrontEnd Masters. Doing snippets and trying to the code of the talks on the slides. as I watch.
+  - [x] Course Introduction
+  - [x] Pretty Access
 
 **Thoughts:** On vacation 🏝 from work for two weeks baby... yaaayy!!! coding here I come. 
 
