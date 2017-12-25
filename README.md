@@ -27,8 +27,9 @@ console.log(addCorrectCount(1));
   - 1 day off 07 Dec. Thursday
   - 1 day off 15 Dec. Friday
   - 1 day *off* 22 Dec. Friday -  forgot about it, please read Day entry for details
+  - 1 day *off* 24 Dec. Sunday -  Xmas
   ---------------------------
-  Total: 3
+  Total: 4
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -306,7 +307,7 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- Finished Section 17 and started  Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+- Finished Section 17 and started Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
   - [x] Add a `db` on firebase.
 
 - Worked on a react package `<NotFound />`. Package that will mainly be used for work, **but**  planning to publish it on `npm` as well. I'm using `rollup`, `flow`, `react`
@@ -328,7 +329,7 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF**
 
 **Thoughts:** None
 
@@ -341,7 +342,8 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add and `employeeCreate` action crator and hooks it up to the `<EmployeeCreate />` form.
 
 **Thoughts:** None
 
