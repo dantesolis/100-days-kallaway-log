@@ -338,7 +338,7 @@ You can see my previous log(s):
 <hr />
 
 
-### Day 21: 25 Dec. Sunday
+### Day 21: 25 Dec. Monday
 
 **Today's Progress**:
 
