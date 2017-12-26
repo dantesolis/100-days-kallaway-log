@@ -351,4 +351,21 @@ You can see my previous log(s):
 
 <hr />
 
+
+### Day 22: 26 Dec. Tuesday
+
+**Today's Progress**:
+
+- Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
+  - [x] Did 'Bracket Notation'
+
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Fix typos. Continue working on the EmployeeActions action and EmploeeFormReducer..
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 Made with ❤️ &copy; 2017 D/S 💯
