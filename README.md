@@ -368,4 +368,134 @@ You can see my previous log(s):
 
 <hr />
 
+
+### Day 23: 27 Dec. Wednesday
+
+**Today's Progress**:
+
+- Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
+  - [x] Did 'Object Best Practices'
+
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Fix a typo on EmployeeCreate component and finish the employeeAction action creator.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 24: 28 Dec. Thursday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 25: 29 Dec. Friday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 26: 30 Dec. Saturday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 27: 31 Dec. Sunday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+##======================== 2018 : New Year Yo!!🎈🎉 =====================================##
+
+
+### Day 28: 01 Jan. Monday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 29: 02 Jan. Tuesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 30: 03 Jan. Wednesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 31: 04 Jan. Thursday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 32: 05 Jan. Friday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 Made with ❤️ &copy; 2017 D/S 💯
