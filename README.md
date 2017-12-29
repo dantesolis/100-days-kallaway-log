@@ -28,8 +28,9 @@ console.log(addCorrectCount(1));
   - 1 day off 15 Dec. Friday
   - 1 day *off* 22 Dec. Friday -  forgot about it, please read Day entry for details
   - 1 day *off* 24 Dec. Sunday -  Xmas
+  - 1 day *off* 28 Dec. Thursday - Packing time for Xmas trip 🎅 🦌 🌲
   ---------------------------
-  Total: 4
+  Total: 5
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -389,9 +390,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF:** Packing time for Xmas trip 🎅 🦌 🌲
 
-**Thoughts:** None
+**Thoughts:** - **DAY OFF**
 
 **Link to work:** *See Today's progress*
 
