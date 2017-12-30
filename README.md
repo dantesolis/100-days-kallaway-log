@@ -402,7 +402,7 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- Worked on a framer prototype for a portfolio page. Here is the [link]() with the progress.
+- Worked on a framer prototype for a portfolio page. Here is the [link](https://framer.cloud/QjcpK) with the progress.
 
 **Thoughts:** None
 
