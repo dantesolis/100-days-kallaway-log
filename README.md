@@ -29,8 +29,9 @@ console.log(addCorrectCount(1));
   - 1 day *off* 22 Dec. Friday -  forgot about it, please read Day entry for details
   - 1 day *off* 24 Dec. Sunday -  Xmas
   - 1 day *off* 28 Dec. Thursday - Packing time for Xmas trip 🎅 🦌 🌲
+  - 1 week *off* 30 Dec. Saturday - 05 Jan. Friday - Winter Holiday 🎅 🦌 🌲
   ---------------------------
-  Total: 5
+  Total: 12 Days
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -392,7 +393,7 @@ You can see my previous log(s):
 
 - **DAY OFF:** Packing time for Xmas trip 🎅 🦌 🌲
 
-**Thoughts:** - **DAY OFF**
+**Thoughts:** **DAY OFF**
 
 **Link to work:** *See Today's progress*
 
@@ -414,9 +415,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF: Winter Holiday**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF: Winter Holiday**
 
 **Link to work:** *See Today's progress*
 
@@ -426,9 +427,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF: Winter Holiday**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF: Winter Holiday**
 
 **Link to work:** *See Today's progress*
 
@@ -442,9 +443,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF: Winter Holiday**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF: Winter Holiday**
 
 **Link to work:** *See Today's progress*
 
@@ -454,9 +455,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF: Winter Holiday**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF: Winter Holiday**
 
 **Link to work:** *See Today's progress*
 
@@ -466,9 +467,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF: Winter Holiday**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF: Winter Holiday**
 
 **Link to work:** *See Today's progress*
 
@@ -478,9 +479,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF: Winter Holiday**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF: Winter Holiday**
 
 **Link to work:** *See Today's progress*
 
@@ -491,9 +492,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- **DAY OFF: Winter Holiday**
 
-**Thoughts:** None
+**Thoughts:** **DAY OFF: Winter Holiday**
 
 **Link to work:** *See Today's progress*
 
