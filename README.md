@@ -543,7 +543,9 @@ You can see my previous log(s):
 **Today's Progress**:
 
 - Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
-  - [x] Add a employeesFetch action creator to be used on the `<EmployeesList />` component.
+  - [x] Connect the `employeeFetch` action creator to the 
+  EmployeeReducer` and adds it to `<EmployeeList />` component.
+
 
 
 **Thoughts:** *See Today's progress*
