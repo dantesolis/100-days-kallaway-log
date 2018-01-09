@@ -527,9 +527,26 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add a employeesFetch action creator to be used on the `<EmployeesList />` component.
+
+- Worked on creating the design for my portfolio page using framer. Will post the link once I finised with the design.
 
 **Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 36: 09 Jan. Tuesday
+
+**Today's Progress**:
+
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Add a employeesFetch action creator to be used on the `<EmployeesList />` component.
+
+
+**Thoughts:** *See Today's progress*
 
 **Link to work:** *See Today's progress*
 
