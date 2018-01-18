@@ -567,4 +567,21 @@ You can see my previous log(s):
 <hr />
 
 
+### Day 46: 18 Jan. Thursday
+
+**Today's Progress**:
+
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Continue working on the `<EmployeeList />` component.
+
+- Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
+  - [x] Storing Data and Obj Literal Notation
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
 Made with ❤️ &copy; 2017 D/S 💯
