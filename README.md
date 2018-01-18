@@ -30,8 +30,9 @@ console.log(addCorrectCount(1));
   - 1 day *off* 24 Dec. Sunday -  Xmas
   - 1 day *off* 28 Dec. Thursday - Packing time for Xmas trip 🎅 🦌 🌲
   - 9 days *off* 30 Dec. Saturday - 07 Jan. Sunday - Winter Holiday 🎅 🦌 🌲
+  - 8 days *off* 10 Jan. Wednesday - 17 Jan. Wednesday - Work conferences
   ---------------------------
-  Total: 14 Days
+  Total: 22 Days
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -547,11 +548,23 @@ You can see my previous log(s):
   EmployeeReducer` and adds it to `<EmployeeList />` component.
 
 
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 37 - Day 45: 10 Jan. Wednesday - 17 Jan. Wednesday
+
+**Today's Progress**:
+
+- **DAY OFF: Work COnference(s)**
 
 **Thoughts:** *See Today's progress*
 
 **Link to work:** *See Today's progress*
 
 <hr />
+
 
 Made with ❤️ &copy; 2017 D/S 💯
