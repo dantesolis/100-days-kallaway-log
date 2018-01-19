@@ -577,6 +577,28 @@ You can see my previous log(s):
 - Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
   - [x] Storing Data and Obj Literal Notation
 
+- Created a microservice using `micro` and `node`, as a tryout. See the repo [here](https://github.com/dantesolis/micro-counter)
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 47: 19 Jan. Friday
+
+**Today's Progress**:
+
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Continue working on the `<EmployeeList />` component. Added `lodash` to the project and a `mapStateToProps` function to the component.
+
+- Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
+  - [x] Objects iteration.
+  - [ ] Create a kata in `codewars`.
+
+- ...
+
 **Thoughts:** *See Today's progress*
 
 **Link to work:** *See Today's progress*
