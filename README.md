@@ -611,7 +611,8 @@ You can see my previous log(s):
 
 - Worked on prototyping a design for a friend's website using `framer.app`
 
-- ...
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Create a `<ListItem />` component to view a new employee.
 
 **Thoughts:** *See Today's progress*
 
