@@ -597,6 +597,20 @@ You can see my previous log(s):
   - [x] Objects iteration.
   - [ ] Create a kata in `codewars`.
 
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 48: 20 Jan. Saturday
+
+**Today's Progress**:
+
+- Worked on prototyping a design for a friend's website using `framer.app`
+
 - ...
 
 **Thoughts:** *See Today's progress*
