@@ -24,15 +24,16 @@ console.log(addCorrectCount(1));
 
 **Days Xtra to Add:**
 
-  - 1 day off 07 Dec. Thursday
-  - 1 day off 15 Dec. Friday
+  - 1 day *off* 07 Dec. Thursday
+  - 1 day *off* 15 Dec. Friday
   - 1 day *off* 22 Dec. Friday -  forgot about it, please read Day entry for details
   - 1 day *off* 24 Dec. Sunday -  Xmas
   - 1 day *off* 28 Dec. Thursday - Packing time for Xmas trip 🎅 🦌 🌲
   - 9 days *off* 30 Dec. Saturday - 07 Jan. Sunday - Winter Holiday 🎅 🦌 🌲
   - 8 days *off* 10 Jan. Wednesday - 17 Jan. Wednesday - Work conferences
+  - 1 day *off* 21 Jan. Sunday - resting day 🌴 🛋
   ---------------------------
-  Total: 22 Days
+  Total: 23 Days
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -620,5 +621,29 @@ You can see my previous log(s):
 
 <hr />
 
+
+### Day 49: 21 Jan. Sunday
+
+**Today's Progress**:
+
+- **DAY OFF**
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 50: 22 Jan. Monday
+
+**Today's Progress**:
+
+- ... 
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
 
 Made with ❤️ &copy; 2017 D/S 💯
