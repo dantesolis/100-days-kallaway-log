@@ -32,8 +32,9 @@ console.log(addCorrectCount(1));
   - 9 days *off* 30 Dec. Saturday - 07 Jan. Sunday - Winter Holiday 🎅 🦌 🌲
   - 8 days *off* 10 Jan. Wednesday - 17 Jan. Wednesday - Work conferences
   - 1 day *off* 21 Jan. Sunday - resting day 🌴 🛋
+  - 1 day *off* 22 Jan. Monday - forgot about it 🤔.
   ---------------------------
-  Total: 23 Days
+  Total: 24 Days
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -596,7 +597,7 @@ You can see my previous log(s):
 
 - Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
   - [x] Objects iteration.
-  - [ ] Create a kata in `codewars`.
+  - [ ] **[TODO]** Create a kata in `codewars`.
 
 
 **Thoughts:** *See Today's progress*
@@ -638,7 +639,24 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ... 
+- **DAY OFF**
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 51: 23 Jan. Monday
+
+**Today's Progress**:
+
+- Continued working on Section 18 of [React-Native-and-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5738524.1?start=0) Udemy Course.
+  - [x] Create a `<ListItem />` component to view a new employee.
+
+- Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
+  - [ ] Objects Exercise. [Exercises-Link](https://github.com/bgando/JS102)
 
 **Thoughts:** *See Today's progress*
 
