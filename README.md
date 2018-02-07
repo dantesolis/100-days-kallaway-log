@@ -648,7 +648,7 @@ You can see my previous log(s):
 <hr />
 
 
-### Day 51: 23 Jan. Monday
+### Day 51: 23 Jan. Tuesday
 
 **Today's Progress**:
 
@@ -663,5 +663,47 @@ You can see my previous log(s):
 **Link to work:** *See Today's progress*
 
 <hr />
+
+
+### Day 52: 24 Jan. Wednesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 53: 25 Jan. Thursday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 54: 25 Jan. Friday
+
+**Today's Progress**:
+
+- Worked on the [css-grid] course of wesbos.
+- Continued working on FrontEnd Master: [JS Course:From Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-to-functional/object-best-practices)
+  - [ ] Objects Exercise. [Exercises-Link](https://github.com/bgando/JS102)
+
+**Thoughts:** *See Today's progress*
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 
 Made with ❤️ &copy; 2017 D/S 💯
