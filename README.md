@@ -10,12 +10,15 @@ To get the actual count just run the following snippet:
 
 ```js
 // # Note this is using flow.
-// @flow
-const addCorrectCount = (days: number): number => {
-  const previousDayCount = 0; 
-  return previousDayCount + days;
-}
-console.log(addCorrectCount(1));
+/* @flow */
+
+const addCorrectCount = (days: number= 0) :number => {
+  const previousCount = 275;
+  return previousCount + days;
+};
+
+console.assert(addCorrectCount(275) === 275, "Wrong"); // <= undefined :)
+console.assert(addCorrectCount(275) === 0, "Wrong"); // <= Wrong
 ```
 
 **Start Date** 01 May. 2018
