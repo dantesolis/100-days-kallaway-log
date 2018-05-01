@@ -47,9 +47,14 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Finished Section 1 and started Section 2 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Setting up.
 
-**Thoughts:**
+- Read one page of YDKJS from Kyle Simpson
+  - [x] Operators
+
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
