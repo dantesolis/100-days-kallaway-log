@@ -64,7 +64,11 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Continued working on Section 2 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Why should I use Node ?.
+
+- Read one page of YDKJS from Kyle Simpson
+  - [x] Values & Types
 
 **Thoughts:**
 
