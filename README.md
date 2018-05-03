@@ -50,8 +50,9 @@ You can see my previous log(s):
 - Finished Section 1 and started Section 2 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
   - [x] Setting up.
 
-- Read one page of YDKJS from Kyle Simpson
-  - [x] Operators
+- Read one page of [YDKJS](https://github.com/getify/You-Dont-Know-JS) from Kyle Simpson
+  - Up & Going 
+    - [x] Operators
 
 
 **Thoughts:** None
@@ -65,10 +66,11 @@ You can see my previous log(s):
 **Today's Progress**: 
 
 - Continued working on Section 2 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x] Why should I use Node ?.
+  - [x] Why should I use Node?
 
-- Read one page of YDKJS from Kyle Simpson
-  - [x] Values & Types
+- Read one page of [YDKJS](https://github.com/getify/You-Dont-Know-JS) from Kyle Simpson
+  - Up & Going
+    - [x] Values & Types
 
 **Thoughts:**
 
@@ -80,7 +82,15 @@ You can see my previous log(s):
 
 **Today's Progress**: 
 
-- ...
+- Finished Section 2 and started Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Atom (setting up) & first node app.
+
+- Read one page of [YDKJS](https://github.com/getify/You-Dont-Know-JS) from Kyle Simpson
+  - Up & Going
+    - [x] Comments
+
+- Completed the [abbreviate name](https://www.codewars.com/kata/abbreviate-a-two-word-name/train/javascript) kata on codewars.
+
 
 **Thoughts:**
 
