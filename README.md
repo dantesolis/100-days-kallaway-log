@@ -100,14 +100,86 @@ You can see my previous log(s):
 
 ### Day 4: 04 May. Friday
 
-**Today's Progress**: 
+**Today's Progress**: DAY OFF
 
-- ...
+- DAY OFF - Opera Day 🎵👨🏽‍🎤👩🏻‍🎤 (yaay)
 
-**Thoughts:**
+**Thoughts:** DAY OFF
 
 **Link to work:** *See Today's progress*
 
 <hr />
 
+
+### Day 5: 05 May. Saturday
+
+**Today's Progress**:
+
+- Working on a Code Challenge for a job interview; creating a react/redux app. Links to follow once the app is done. 
+
+**Thoughts:** To follow
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 6: 06 May. Sunday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 7: 07 May. Monday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 8: 08 May. Monday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 9: 09 May. Tuesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 10: 10 May. Wednesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
 Made with ❤️ &copy; 2018 D/S 💯
