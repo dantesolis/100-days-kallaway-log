@@ -27,11 +27,11 @@ console.assert(addCorrectCount(275) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Xtra to Add:**
-
+**Days Xtra to Add:** 1
+  - 04 May. Friday: DAY OFF Opera Day 🎵👨🏽‍🎤👩🏻‍🎤 (yaay)
   - ...
   ---------------------------
-  Total: 0
+  Total: 1
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
