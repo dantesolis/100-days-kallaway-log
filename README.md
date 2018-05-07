@@ -127,9 +127,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continue working on that Code Challenge for a job interview; creating a react/redux app. Links to follow once the app is done. 
 
-**Thoughts:** ...
+**Thoughts:** To follow
 
 **Link to work:** *See Today's progress*
 
@@ -139,15 +139,19 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
+- Continue working on that Code Challenge for a job interview; creating a react/redux app. Links to follow once the app is done.
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+
 - ...
 
-**Thoughts:** ...
+**Thoughts:** 
 
 **Link to work:** *See Today's progress*
 
 <hr />
 
-### Day 8: 08 May. Monday
+### Day 8: 08 May. Tuesday
 
 **Today's Progress**:
 
@@ -159,7 +163,7 @@ You can see my previous log(s):
 
 <hr />
 
-### Day 9: 09 May. Tuesday
+### Day 9: 09 May. Wednesday
 
 **Today's Progress**:
 
@@ -171,7 +175,7 @@ You can see my previous log(s):
 
 <hr />
 
-### Day 10: 10 May. Wednesday
+### Day 10: 10 May. Thursday
 
 **Today's Progress**:
 
@@ -182,4 +186,78 @@ You can see my previous log(s):
 **Link to work:** *See Today's progress*
 
 <hr />
+
+### Day 11: 11 May. Friday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 12: 12 May. Saturday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 13: 13 May. Sunday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 14: 14 May. Monday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 15: 15 May. Tuesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 16: 16 May. Wednesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 Made with ❤️ &copy; 2018 D/S 💯
