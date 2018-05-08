@@ -156,7 +156,8 @@ You can see my previous log(s):
 
 - Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
 
-- ...
+- Continue working on that Code Challenge for a job interview; creating a react/redux app. Links to follow once the app is done.
+  - Working on the style guide and icon creation on Framer today.
 
 **Thoughts:** ...
 
