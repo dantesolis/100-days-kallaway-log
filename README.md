@@ -143,9 +143,8 @@ You can see my previous log(s):
 
 - Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
 
-- ...
 
-**Thoughts:** 
+**Thoughts:** Liking this code challenge.
 
 **Link to work:** *See Today's progress*
 
@@ -154,6 +153,8 @@ You can see my previous log(s):
 ### Day 8: 08 May. Tuesday
 
 **Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
 
 - ...
 
