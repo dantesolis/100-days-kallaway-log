@@ -182,9 +182,17 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on the Code Challenge. This time just worked on creating other components.
+    - [x] Case Study
+    - [x] Added and adjusted `react-router-redux`
 
-**Thoughts:** ...
+- Continue reading [YDKJS](https://github.com/getify/You-Dont-Know-JS) from Kyle Simpson
+  - Up & Going
+    - [x] Variables
+    - [x] Blocks
+    - [x] Conditionals
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
