@@ -159,7 +159,7 @@ You can see my previous log(s):
 - Continue working on that Code Challenge for a job interview; creating a react/redux app. Links to follow once the app is done.
   - Working on the style guide and icon creation on Framer today.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -169,9 +169,10 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on the Code Challenge. This time just worked on the Style Guide.
+  - [x] Finished creating all the avatars.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
