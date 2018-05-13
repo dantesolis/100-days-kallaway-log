@@ -202,9 +202,11 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
 
-**Thoughts:** ...
+- Continued working on the Code Challenge. This time just worked on creating other components.
+  - [x] Refactored the `<CardItem />` component
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -214,9 +216,13 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on the Code Challenge. This time just worked on creating other components.
+  - [x] Continued refactoring the `<CardItem />` component.
+  - [x] Added more `flow` type checking.
+  - [x] Worked on the framer prototype of the App.
+  
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
