@@ -232,9 +232,11 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on the Code Challenge. This time just worked on creating other components.
+  - [x] Refactor `<CardList />` component.
 
-**Thoughts:** ...
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -245,9 +247,10 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on the Code Challenge. This time just worked on creating other components. Worked on the UI Style Guide using Framer
+  - [x] Add styles to the App.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -257,9 +260,10 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continued working on the Code Challenge. This time just worked on creating other components. Worked on the UI Style Guide using Framer
+  - [x] Add styles to the App.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -269,7 +273,21 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Finished working on the Code Challenge. Finished the app and sent it.
+
+**Thoughts:** None
+
+
+### Day 17: 17 May. Thursday
+
+**Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Deviated a bit from the course by adding `mocha`  and `chai` for testing.
+
+- Continue reading [YDKJS](https://github.com/getify/You-Dont-Know-JS) from Kyle Simpson
+  - Up & Going
+    - [ ] ...
 
 **Thoughts:** ...
 
