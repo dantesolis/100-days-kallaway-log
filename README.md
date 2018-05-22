@@ -27,11 +27,13 @@ console.assert(addCorrectCount(275) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Xtra to Add:** 1
+**Days Xtra to Add:** 3
   - 04 May. Friday: DAY OFF Opera Day 🎵👨🏽‍🎤👩🏻‍🎤 (yaay)
+  - 21 May. Monday: DAY OFF PS4 🎮 Day (whoop whoop)
+  - 19 May. Saturday: DAY OFF Can't remmeber what I did actually 🤔
   - ...
   ---------------------------
-  Total: 1
+  Total: 2
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -285,9 +287,138 @@ You can see my previous log(s):
 - Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
   - [x] Deviated a bit from the course by adding `mocha`  and `chai` for testing.
 
-- Continue reading [YDKJS](https://github.com/getify/You-Dont-Know-JS) from Kyle Simpson
-  - Up & Going
-    - [ ] ...
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 18: 18 May. Friday
+
+**Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Requiring your own files.
+
+- Installed [Haiku](https://www.haiku.ai/) to play around with animations. 
+
+- Played around with a color scheme in Framer to get use to write code and not use the designing board. Here is the [link](https://framer.cloud/YyfCh).
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 19: 19 May. Saturday
+
+**Today's Progress**: DAY OFF
+
+- DAY OFF
+
+**Thoughts:** DAY OFF. Can't remember what I did 🤔 actually
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 20: 20 May. Sunday
+
+**Today's Progress**:
+
+- Worked on a new React `<Loader />` component that I will like to publish as a package by using `react-loadable` and `parcel`. To test the new functionality with `code-spliting`.
+  - [x] Running into problems with parcel and code splitting. Getting a `Cannot find module...` error message. Here is the [repo](https://github.com/dantesolis/loader). Might switch to `webpack`.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 21: 21 May. Monday
+
+**Today's Progress**: DAY OFF
+
+- DAY OFF
+
+**Thoughts:** DAY OFF. Playing PS4 🎮 baby.
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 22: 22 May. Tuesday
+
+**Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Installing npm packages.
+
+- Playing around with [Haiku](https://www.haiku.ai/) following one of their tutorials.
+  - [ ] Will create a framer mini project with the animation.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 23: 23 May. Wednesday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 24: 24 May. Thursday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 25: 25 May. Friday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 26: 26 May. Saturday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 27: 27 May. Sunday
+
+**Today's Progress**:
+
+- ...
 
 **Thoughts:** ...
 
