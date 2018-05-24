@@ -370,7 +370,9 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Add `nodemon` as a `devDependency`.
+
 
 **Thoughts:** ...
 
