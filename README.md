@@ -27,13 +27,16 @@ console.assert(addCorrectCount(275) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Xtra to Add:** 3
+**Days Xtra to Add:** 6
   - 04 May. Friday: DAY OFF Opera Day 🎵👨🏽‍🎤👩🏻‍🎤 (yaay)
   - 21 May. Monday: DAY OFF PS4 🎮 Day (whoop whoop)
   - 19 May. Saturday: DAY OFF Can't remmeber what I did actually 🤔
+  - 24 May. Thursday: DAY OFF Ran out of time with my day 🏃 🕐
+  - 26 May. Saturday: DAY OFF. 
+  - 27 May. Sunday: DAY OFF. Marathon Day 🏃 
   - ...
   ---------------------------
-  Total: 2
+  Total: 6
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -382,11 +385,12 @@ You can see my previous log(s):
 
 ### Day 24: 24 May. Thursday
 
-**Today's Progress**:
+**Today's Progress**: DAY OFF
 
-- ...
+- DAY OFF Ran out of time with my day 🏃 🕐
 
-**Thoughts:** ...
+
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
@@ -396,7 +400,11 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
-- ...
+- Finished Section 1 of [Ethical Hacking](https://www.udemy.com/penetration-testing/learn/v4/t/lecture/2535618?start=0) Udemy Course.
+  - [x] Introduction
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x]
 
 **Thoughts:** ...
 
@@ -405,6 +413,31 @@ You can see my previous log(s):
 <hr />
 
 ### Day 26: 26 May. Saturday
+
+**Today's Progress**: DAY OFF
+
+- DAY OFF
+
+**Thoughts:** DAY OFF
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 27: 27 May. Sunday
+
+**Today's Progress**:
+
+- DAY OFF 20km run Day 🏃
+
+**Thoughts:** DAY OFF
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 28: 28 May. Monday
 
 **Today's Progress**:
 
@@ -416,7 +449,7 @@ You can see my previous log(s):
 
 <hr />
 
-### Day 27: 27 May. Sunday
+### Day 29: 29 May. Tuesday
 
 **Today's Progress**:
 
