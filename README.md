@@ -403,8 +403,6 @@ You can see my previous log(s):
 - Finished Section 1 of [Ethical Hacking](https://www.udemy.com/penetration-testing/learn/v4/t/lecture/2535618?start=0) Udemy Course.
   - [x] Introduction
 
-- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x]
 
 **Thoughts:** ...
 
@@ -441,6 +439,32 @@ You can see my previous log(s):
 
 **Today's Progress**:
 
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Getting input from the user.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 29: 29 May. Tuesday
+
+**Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Better command arguments with `yargs` package.
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 30: 30 May. Wednesday
+
+**Today's Progress**:
+
 - ...
 
 **Thoughts:** ...
@@ -449,7 +473,19 @@ You can see my previous log(s):
 
 <hr />
 
-### Day 29: 29 May. Tuesday
+### Day 31: 31 May. Thursday
+
+**Today's Progress**:
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+### Day 01: 01 June. Friday
 
 **Today's Progress**:
 
