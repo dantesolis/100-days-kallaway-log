@@ -27,16 +27,18 @@ console.assert(addCorrectCount(275) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Xtra to Add:** 6
+**Days Xtra to Add:** 8
   - 04 May. Friday: DAY OFF Opera Day 🎵👨🏽‍🎤👩🏻‍🎤 (yaay)
   - 21 May. Monday: DAY OFF PS4 🎮 Day (whoop whoop)
   - 19 May. Saturday: DAY OFF Can't remmeber what I did actually 🤔
   - 24 May. Thursday: DAY OFF Ran out of time with my day 🏃 🕐
   - 26 May. Saturday: DAY OFF. 
-  - 27 May. Sunday: DAY OFF. Marathon Day 🏃 
+  - 27 May. Sunday: DAY OFF. Marathon Day 🏃
+  - 30 May. Wednesday: DAY OFF. Ran out of time with my day 🏃 🕐
+  - 31 May. Thursday: DAY OFF. Ran out of time with my day 🏃 🕐
   - ...
   ---------------------------
-  Total: 6
+  Total: 8
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -463,11 +465,11 @@ You can see my previous log(s):
 
 ### Day 30: 30 May. Wednesday
 
-**Today's Progress**:
+**Today's Progress**: DAY OFF
 
-- ...
+- DAY OFF. Ran out of time with my day 🏃 🕐
 
-**Thoughts:** ...
+**Thoughts:** DAY OFF
 
 **Link to work:** *See Today's progress*
 
@@ -475,19 +477,22 @@ You can see my previous log(s):
 
 ### Day 31: 31 May. Thursday
 
-**Today's Progress**:
+**Today's Progress**: DAY OFF
 
-- ...
+- DAY OFF. Ran out of time with my day 🏃 🕐
 
-**Thoughts:** ...
+**Thoughts:** DAY OFF
 
 **Link to work:** *See Today's progress*
 
 <hr />
 
-### Day 01: 01 June. Friday
+### Day 32: 01 June. Friday
 
 **Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Working with `json` notation.
 
 - ...
 
