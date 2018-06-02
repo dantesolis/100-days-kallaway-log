@@ -494,12 +494,25 @@ You can see my previous log(s):
 - Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
   - [x] Working with `json` notation.
 
-- ...
-
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:** *See Today's progress*
 
 <hr />
+
+### Day 33: 02 June. Saturday
+
+**Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Add the `addNote` function.
+  - [x] Started adding flow (personal addition) to the project
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
 
 Made with ❤️ &copy; 2018 D/S 💯
