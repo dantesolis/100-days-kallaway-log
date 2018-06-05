@@ -36,9 +36,11 @@ console.assert(addCorrectCount(275) === 0, "Wrong"); // <= Wrong
   - 27 May. Sunday: DAY OFF. Marathon Day 🏃
   - 30 May. Wednesday: DAY OFF. Ran out of time with my day 🏃 🕐
   - 31 May. Thursday: DAY OFF. Ran out of time with my day 🏃 🕐
+  - 03 Jun. Sunday: DAY OFF. Mandatory. Probably gonna be taking all Sundays OFF
+  - 04 Jun. Monday: DAY OFF. Was too tired 😢
   - ...
   ---------------------------
-  Total: 8
+  Total: 10
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself. So 100 Days is the best bet. Plus this has become a mild addiction 😁.
 
@@ -514,5 +516,44 @@ You can see my previous log(s):
 
 <hr />
 
+
+### Day 34: 03 June. Sunday
+
+**Today's Progress**:
+
+- DAY OFF MANDATORY
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 35: 04 June. Monday
+
+**Today's Progress**:
+
+- DAY OFF. Too Tired 😢
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
+
+
+### Day 36: 05 June. Tuesday
+
+**Today's Progress**:
+
+- Continue working on Section 3 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [ ] Refactoring code.
+
+**Thoughts:** None
+
+**Link to work:** *See Today's progress*
+
+<hr />
 
 Made with ❤️ &copy; 2018 D/S 💯
